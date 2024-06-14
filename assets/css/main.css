@@ -2037,6 +2037,8 @@ label {
 }
 .card-grid-news .block-image-rd img {
   border-radius: 10px;
+  mix-blend-mode: multiply;
+  /* width: 200px !important; */
 }
 
 .card-two-collumn {
