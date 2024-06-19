@@ -7484,4 +7484,8 @@ label {
     color: #000;
   }
 }
+.green-correct {
+  color: rgb(37, 155, 37);
+  margin-right: 10px;
+}
 /* Whatsapp Icon  */
