@@ -1,3 +1,64 @@
+<?php
+//ini_set('SMTP', "mail.mnsah.com.sa");
+//ini_set('smtp_port', "8889");
+//ini_set('sendmail_from', "webmaster@mnsah.com.sa");
+
+//$headers= 'MIME-Version: 1.0' . "\r\n";
+//$headers.= 'Content-type: text/html; charset=utf8' . "\r\n";
+//$headers .= 'From: www.saj.ir' . "\r\n";
+
+include_once("smtptester/class.phpmailer.php"); 
+ 
+//$name = "=?UTF-8?B?" . base64_encode($name) . "?="; 
+
+
+
+if($_POST['name'] !='' && $_POST['email'] !='' && $_POST['message'] !=''){
+	//send Mail
+	$name = "=?UTF-8?B?".base64_encode($_POST['name'])."?=";
+    $mail = new PHPMailer(); 
+    $mail->IsSMTP(); 
+    $mail->SMTPAuth = true; 
+    $mail->Host = "mail.mnsah.com.sa"; 
+    $mail->Username = "email@mnsah.com.sa"; 
+    $mail->Password = "Mnsah@2018";
+    $mail->From = "email@mnsah.com.sa"; 
+    $mail->FromName = $name; 
+    $mail->CharSet = 'UTF-8';
+    
+
+
+	$subject ='MNSAH Website - Contact Us Page';
+	$msg="Name: ".$_POST['name']."\r\n";
+	$msg.="Email: ".$_POST['email']."\r\n";
+	$msg.="Phone: ".$_POST['phone']."\r\n";
+	$msg.="Message: "."\r\n";
+    $msg.= $_POST['message']; 
+
+
+    $mail->AddAddress("sales@mnsah.com"); 
+    $mail->Subject = $subject; 
+    $mail->Body = $msg; 
+    $mail->WordWrap = 50; 
+    $mail->IsHTML(false); 
+    $mail->Port = 25; 
+
+
+	//$headers = "From: webmaster@mnsah.com.sa"."\r\n".
+		//"Reply-To: {webmaster@mnsah.com.sa}\r\n".
+		//"MIME-Version: 1.0\r\n".
+		//"Content-type: text/plain; charset=UTF-8";
+	//$check = mail('islam@artlinkgroup.com', $subject, $msg, $headers);
+
+	if ($mail->Send()){
+		$contacts='شكرا لك لقد تم ادخال طلبكم بنجاح' ;
+		//header("Refresh:0");
+	}else{
+		$contacts='خطأ .. برجاء إعادة المحاولة';
+		//header("Refresh:0");
+	}
+}
+?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
   <head>
@@ -363,7 +424,8 @@
                       class="contact-form-style mt-80"
                       id="contact-form"
                       action="#"
-                      method="post"
+                      method="POST"
+                      action="contact.php"
                     >
                       <div
                         class="row wow animate__animated animate__fadeInUp"
