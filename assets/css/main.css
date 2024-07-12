@@ -218,10 +218,10 @@ input:focus::-moz-placeholder {
 }
 
 a {
-  color: #9777fa;
+  color: #c70100;
 }
 a:hover {
-  color: #7856dd;
+  color: #c70100;
 }
 
 li.hr span {
@@ -234,16 +234,16 @@ li.hr span {
 
 /*--- Common Classes---------------------*/
 ::-moz-selection {
-  background: #9777fa; /* WebKit/Blink Browsers */
+  background: #c70100; /* WebKit/Blink Browsers */
   color: #fff;
 }
 ::selection {
-  background: #9777fa; /* WebKit/Blink Browsers */
+  background: #c70100; /* WebKit/Blink Browsers */
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #9777fa; /* Gecko Browsers */
+  background: #c70100; /* Gecko Browsers */
   color: #fff;
 }
 
@@ -513,12 +513,12 @@ a {
 .dropdown .dropdown-menu.show .dropdown-item.active {
   color: #fff;
   text-decoration: none;
-  background-color: #9777fa;
+  background-color: #c70100;
 }
 .dropdown .dropdown-menu.show .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #9777fa;
+  background-color: #c70100;
 }
 .dropdown.dropdown-sort .dropdown-menu.show {
   border-radius: 10px;
@@ -717,7 +717,7 @@ h6 {
 }
 
 .text-brand {
-  color: #9777fa;
+  color: #c70100;
 }
 
 .font-3xs {
@@ -778,10 +778,10 @@ h6 {
 }
 .btn.btn-default {
   color: #ffffff;
-  background-color: #9777fa;
+  background-color: #c70100;
 }
 .btn.btn-default:hover {
-  background-color: #6d4bd3;
+  background-color: #df5353;
   transform: translateY(-2px);
   transition: 0.2s;
 }
@@ -798,7 +798,7 @@ h6 {
   content: "";
   height: 5px;
   width: 5px;
-  background-color: #9777fa;
+  background-color: #c70100;
   border-radius: 50%;
   display: inline-block;
   margin: 0px 5px 2px 0px;
@@ -831,7 +831,7 @@ h6 {
 }
 .btn-border:hover {
   color: #ffffff;
-  background-color: #9777fa;
+  background-color: #c70100;
   transition-duration: 0.2s;
   transform: translateY(-3px);
 }
@@ -857,7 +857,7 @@ h6 {
 }
 
 .btn-brand-hover:hover {
-  background-color: #9777fa;
+  background-color: #c70100;
   color: #ffffff;
 }
 
@@ -866,7 +866,7 @@ h6 {
   display: inline-block;
 }
 .box-button-shadow::before {
-  background: #9777fa;
+  background: #c70100;
   filter: blur(20px);
   border-radius: 10px;
   content: "";
@@ -894,17 +894,17 @@ h6 {
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 
 .icon-chevron-right {
-  background-image: url(../imgs/theme/icons/chevron-right.svg);
+  background-image: url(../imgs/public-imgs/chevron-right.svg);
   background-repeat: no-repeat;
   background-position: right 19px center;
   padding-right: 42px;
 }
 .icon-chevron-right:hover {
-  background-image: url(../imgs/theme/icons/chevron-right-light.svg);
+  background-image: url(../imgs/public-imgs/chevron-right-light.svg);
   color: #fff !important;
 }
 
@@ -974,7 +974,7 @@ h6 {
   width: 21px;
   left: 5px;
   bottom: 5px;
-  background-color: #9777fa;
+  background-color: #c70100;
   transition: 0.4s;
 }
 
@@ -983,7 +983,7 @@ input:checked + .slider {
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #9777fa;
+  box-shadow: 0 0 1px #c70100;
 }
 
 input:checked + .slider:before {
@@ -1036,7 +1036,7 @@ span.btn {
 }
 
 .cb-container input:checked ~ .checkmark {
-  border: 2px solid #9777fa;
+  border: 2px solid #c70100;
 }
 
 .checkmark:after {
@@ -1054,7 +1054,7 @@ span.btn {
   top: -1px;
   width: 21px;
   height: 21px;
-  background: #9777fa url(../imgs/theme/icons/tick.svg) no-repeat center;
+  background: #c70100 url(../imgs/theme/icons/tick.svg) no-repeat center;
 }
 
 /*COMPONENTS -> FORM*/
@@ -1089,7 +1089,7 @@ input {
 }
 input:focus {
   background: transparent;
-  border: 1px solid rgba(151, 119, 250, 0.5);
+  border: 1px solid #c70100;
 }
 
 select {
@@ -1120,7 +1120,7 @@ textarea {
 }
 textarea:focus {
   background: transparent;
-  border: 1px solid rgba(151, 119, 250, 0.5);
+  border: 1px solid #c70100;
 }
 
 /*contact form*/
@@ -1130,12 +1130,12 @@ textarea:focus {
   padding: 20px 40px;
   color: #ffffff;
   border: none;
-  background-color: #9777fa;
+  background-color: #c70100;
   border-radius: 10px;
   font-family: "Tajawal", sans-serif;
 }
 .contact-from-area .contact-form-style button:hover {
-  background-color: #7856dd !important;
+  background-color: #c70100 !important;
 }
 
 .form-group {
@@ -1152,7 +1152,7 @@ textarea:focus {
 }
 .form-group input:focus {
   background: transparent;
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
 }
 .form-group input.form-icons {
   padding-left: 42px;
@@ -1181,7 +1181,7 @@ label {
   max-width: 100%;
 }
 .box-swiper .swiper-container .item-logo:hover {
-  border: 1px solid rgba(151, 119, 250, 0.5);
+  border: 1px solid #c70100;
   box-shadow: 20px 20px 54px rgba(0, 0, 0, 0.05);
 }
 .box-swiper .swiper-button-next:after,
@@ -1415,7 +1415,7 @@ label {
 }
 
 .noUi-connect {
-  background: #9777fa;
+  background: #c70100;
   transition: background 450ms;
   height: 6px;
   margin-top: 0px;
@@ -1444,7 +1444,7 @@ label {
 }
 .card-grid:hover {
   box-shadow: 0px 9px 26px 0px rgba(31, 31, 51, 0.06);
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
   transition-duration: 0.2s;
 }
 .card-grid .card-heading {
@@ -1463,7 +1463,7 @@ label {
   color: #1f2938;
 }
 .card-grid a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 
 .card-shadow {
@@ -1493,14 +1493,14 @@ label {
 }
 .card-grid-2:hover {
   box-shadow: 0px 9px 26px 0px rgba(31, 31, 51, 0.06);
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
 }
 .card-grid-2 a {
   text-decoration: none;
   color: #1f2938;
 }
 .card-grid-2 a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .card-grid-2 .card-grid-2-image-rd {
   padding: 30px 20px 0px 20px;
@@ -1533,7 +1533,7 @@ label {
   display: block;
 }
 .card-grid-2 .card-grid-2-image figure img {
-  width: 100%;
+  width: 50%;
 }
 .card-grid-2 .card-grid-2-image .btn-urgent {
   position: absolute;
@@ -1595,7 +1595,7 @@ label {
   background: url(../imgs/theme/icons/marker.svg) no-repeat 0px 3px;
 }
 .card-grid-2 .card-block-info .card-text-price {
-  color: #5192ff;
+  color: #c70100;
   font-family: "Tajawal", sans-serif;
   font-weight: bold;
   font-size: 22px;
@@ -1616,7 +1616,7 @@ label {
   .card-2-bottom.card-2-bottom-candidate
   .btn-brand-hover {
   padding: 15px 33px;
-  border: thin solid rgba(151, 119, 250, 0.5);
+  border: thin solid #c70100;
   font-size: 14px;
 }
 .card-grid-2
@@ -1652,7 +1652,7 @@ label {
   padding-bottom: 5px;
 }
 .card-grid-2 .card-block-info .card-profile strong:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .card-grid-2 .card-block-info .card-profile > span {
   color: #88929b;
@@ -1728,7 +1728,7 @@ label {
 }
 .card-grid-3:hover {
   box-shadow: 0px 9px 26px 0px rgba(31, 31, 51, 0.06);
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
 }
 .card-grid-3 a {
   text-decoration: none;
@@ -1748,7 +1748,7 @@ label {
   color: #1f2938;
 }
 .card-grid-3 h5 a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .card-grid-3 .card-block-info {
   display: inline-block;
@@ -1801,7 +1801,7 @@ label {
   background: url(../imgs/theme/icons/marker.svg) no-repeat 0px 3px;
 }
 .card-grid-3 .card-block-info .card-text-price {
-  color: #5192ff;
+  color: #c70100;
   font-family: "Tajawal", sans-serif;
   font-weight: bold;
   font-size: 22px;
@@ -1850,7 +1850,7 @@ label {
 }
 .list-recent-jobs .card-job:hover {
   box-shadow: 0px 20px 60px -6px rgba(0, 0, 0, 0.04);
-  border: 1px solid rgba(151, 119, 250, 0.5);
+  border: 1px solid #c70100;
 }
 .list-recent-jobs .card-job .card-job-description {
   color: #727272;
@@ -1878,11 +1878,11 @@ label {
   color: #1f2938;
 }
 .list-recent-jobs .card-job .card-job-top--info-heading:hover a {
-  color: #9777fa;
+  color: #c70100;
 }
 .list-recent-jobs .card-job .card-job-top--info .card-job-top--company {
   font-weight: bold;
-  color: #9777fa;
+  color: #c70100;
   font-size: 12px;
 }
 .list-recent-jobs .card-job .card-job-top--info .card-job-top--location,
@@ -1900,7 +1900,7 @@ label {
   margin: 2px 5px 0px 0px;
 }
 .list-recent-jobs .card-job .card-job-top--info .card-job-top--price {
-  color: #5192ff;
+  color: #c70100;
   font-family: "Tajawal", sans-serif;
   font-weight: bold;
   font-size: 22px;
@@ -1926,7 +1926,7 @@ label {
   transition-duration: 0.2s;
 }
 .card-job-bottom a.color-muted:hover {
-  color: #9777fa !important;
+  color: #c70100 !important;
 }
 
 .card-grid-4 {
@@ -1947,14 +1947,14 @@ label {
   padding: 10px 0px 0px 0px;
 }
 .card-grid-4 .btn-readmore {
-  color: #9777fa;
+  color: #c70100;
   font-size: 18px;
   font-family: "Tajawal", sans-serif;
   font-weight: 400;
   text-decoration: none;
 }
 .card-grid-4 .btn-readmore:hover {
-  color: #7856dd;
+  color: #c70100;
 }
 .card-grid-4 .btn-readmore.icon-arrow {
   background: url(../imgs/theme/icons/arrow.svg) no-repeat right 0px top 7px;
@@ -1966,7 +1966,7 @@ label {
   background: transparent;
 }
 .card-none-bd .card-info-bottom h3 {
-  color: #9777fa;
+  color: #c70100;
   margin-bottom: 23px;
 }
 .card-none-bd .card-info-bottom strong {
@@ -2001,7 +2001,7 @@ label {
   text-decoration: none;
 }
 .card-grid-news .card-info-bottom h3 {
-  color: #9777fa;
+  color: #c70100;
   margin-bottom: 23px;
 }
 .card-grid-news .card-info-bottom h3 span.count {
@@ -2020,7 +2020,7 @@ label {
 }
 .card-grid-news .card-info-bottom ul li {
   list-style: disc;
-  color: #9777fa;
+  color: #c70100;
   float: left;
   width: 50%;
   padding: 5px 5px 5px 0px;
@@ -2051,7 +2051,7 @@ label {
 }
 .card-two-collumn:hover {
   box-shadow: 0px 9px 26px 0px rgba(31, 31, 51, 0.06);
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
 }
 .card-two-collumn .card-grid-3-image {
   position: relative;
@@ -2152,7 +2152,7 @@ label {
   background: url(../imgs/theme/icons/marker.svg) no-repeat 0px 3px;
 }
 .card-two-collumn .card-block-info .card-text-price {
-  color: #5192ff;
+  color: #c70100;
   font-family: "Tajawal", sans-serif;
   font-weight: bold;
   font-size: 22px;
@@ -2209,14 +2209,14 @@ label {
   transition-duration: 0.2s;
 }
 .nav-right li button:hover {
-  background-color: #9777fa;
+  background-color: #c70100;
   color: #ffffff;
   transition-duration: 0.2s;
   transform: translateY(-3px);
 }
 .nav-right li button.active {
   color: #ffffff;
-  background-color: #9777fa;
+  background-color: #c70100;
 }
 
 .job-text-desc {
@@ -2497,7 +2497,7 @@ label {
   text-decoration: none;
 }
 .breadcrumbs li a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .breadcrumbs li:last-child::before {
   color: #88929b;
@@ -2571,7 +2571,7 @@ label {
   right: -60px;
 }
 .banner-hero .text-small-primary {
-  color: #5192ff;
+  color: #c70100;
   font-size: 16px;
   font-weight: bold;
   font-family: "Tajawal", sans-serif;
@@ -2643,7 +2643,7 @@ label {
 }
 .banner-hero .block-banner .form-find .select2 .select2-selection__arrow b {
   display: none !important;
-  background-color: #9777fa;
+  background-color: #c70100;
 }
 .banner-hero .block-banner .form-find .input-keysearch {
   background: url(../imgs/theme/icons/icon-job.svg) no-repeat left 18px center;
@@ -2772,7 +2772,7 @@ label {
   position: relative;
 }
 .header .main-menu li a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .header .main-menu li a i {
   font-size: 10px;
@@ -2813,7 +2813,7 @@ label {
   top: 50%;
   width: 5px;
   height: 5px;
-  background-color: #9777fa;
+  background-color: #c70100;
   border-radius: 50%;
   opacity: 0.7;
   transition-duration: 0.2s;
@@ -2844,7 +2844,7 @@ label {
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
-  color: #9777fa;
+  color: #c70100;
   display: inline-block;
   position: relative;
   padding-left: 13px;
@@ -2854,7 +2854,7 @@ label {
 }
 .header .text-link-bd-btom::before {
   content: "";
-  background: #9777fa;
+  background: #c70100;
   width: 6px;
   height: 6px;
   border-radius: 50%;
@@ -3197,7 +3197,7 @@ label {
   margin-top: -3px;
   width: 5px;
   height: 5px;
-  background-color: #9777fa;
+  background-color: #c70100;
   border-radius: 50%;
   opacity: 0.7;
   transition-duration: 0.2s;
@@ -3233,7 +3233,7 @@ label {
   .mobile-menu
   li:hover
   > a {
-  color: #9777fa;
+  color: #c70100;
   padding-left: 3px;
   transition-duration: 0.2s;
 }
@@ -3287,7 +3287,7 @@ label {
   .mobile-header-info-wrap
   .single-mobile-header-info
   a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .mobile-header-wrapper-style
   .mobile-header-wrapper-inner
@@ -3297,7 +3297,7 @@ label {
   a
   i {
   font-size: 14px;
-  color: #9777fa;
+  color: #c70100;
   margin-right: 8px;
 }
 .mobile-header-wrapper-style
@@ -3356,7 +3356,7 @@ label {
   ul
   li
   a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .mobile-header-wrapper-style
   .mobile-header-wrapper-inner
@@ -3517,7 +3517,7 @@ label {
 .mobile-account ul li:hover a {
   padding-left: 3px;
   transition-duration: 0.2s;
-  color: #9777fa;
+  color: #c70100;
 }
 
 .sidebar-title {
@@ -3575,7 +3575,7 @@ label {
   text-align: center;
 }
 .widget-categories li:hover span.count {
-  background-color: #9777fa;
+  background-color: #c70100;
   color: #ffffff;
 }
 
@@ -3607,6 +3607,11 @@ label {
 .post-list-small-item:not(:last-child) {
   margin-bottom: 15px;
 }
+@media (max-width: 991px) {
+  .footer {
+    text-align: center;
+  }
+}
 
 .footer .menu-footer {
   display: inline-block;
@@ -3622,7 +3627,7 @@ label {
   transition-duration: 0.2s;
 }
 .footer .menu-footer li a:hover {
-  color: #9777fa;
+  color: #c70100;
   transition-duration: 0.2s;
   padding-left: 3px;
 }
@@ -3633,7 +3638,7 @@ label {
   font-size: 14px;
 }
 .footer .footer-bottom strong {
-  color: #9777fa;
+  color: #c70100;
   font-weight: bold;
 }
 .footer .footer-bottom a {
@@ -3696,7 +3701,7 @@ label {
   border: 0;
   background-color: #fff;
   transition-duration: 0.2s;
-  background-color: #9777fa;
+  background-color: #c70100;
 }
 #scrollUp i {
   display: block;
@@ -5324,7 +5329,7 @@ label {
 .text-blue {
   font-family: "Tajawal", sans-serif;
   font-size: 20px;
-  color: #5192ff;
+  color: #c70100;
   font-weight: 600;
   line-height: 24px;
 }
@@ -5374,8 +5379,7 @@ label {
   right: -50px;
   height: 84%;
   width: 88%;
-  background: rgba(81, 146, 255, 0.3) url(../imgs/page/about/bg-inner-job.svg)
-    no-repeat;
+  background: #fff9f3 url(../imgs/page/about/bg-inner-job.svg) no-repeat;
   background-size: cover;
   border-radius: 80px;
   z-index: 0;
@@ -5569,7 +5573,7 @@ label {
 }
 .block-pricing .most-popular {
   margin-top: -50px;
-  background: #9777fa url(../imgs/theme/bg-featured.svg) no-repeat top right;
+  background: #c70100 url(../imgs/theme/bg-featured.svg) no-repeat top right;
   background-size: contain;
   border-radius: 26px;
   padding: 20px 30px 44px 30px;
@@ -5587,7 +5591,7 @@ label {
 }
 .block-pricing .most-popular .btn-border {
   font-weight: bold;
-  color: #9777fa;
+  color: #c70100;
   width: 100%;
   text-align: center;
 }
@@ -5596,7 +5600,7 @@ label {
   text-transform: uppercase;
   padding: 9px 25px 7px 25px;
   font-size: 10px;
-  color: #9777fa;
+  color: #c70100;
   line-height: 12px;
   font-family: "Tajawal", sans-serif;
 }
@@ -5690,7 +5694,7 @@ label {
   left: 15px;
 }
 .accordion-flush .accordion-button:not(.collapsed) {
-  color: #9777fa;
+  color: #c70100;
   background-color: transparent;
 }
 .accordion-flush .accordion-button:not(.collapsed)::after {
@@ -5701,7 +5705,7 @@ label {
   transform: none;
 }
 .accordion-flush .accordion-button:focus {
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
 }
 .accordion-flush .accordion-body {
   color: #88929b;
@@ -5754,13 +5758,13 @@ label {
   color: #1f2938;
 }
 .card-blog-1 h3.post-title a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 .card-blog-1 h3.post-title.small {
   font-size: 18px;
 }
 .card-blog-1 .btn-brand-hover {
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
 }
 .card-blog-1.post-list {
   display: flex;
@@ -5793,7 +5797,7 @@ label {
   color: #1f2938;
 }
 .single-body blockquote {
-  background-color: rgba(81, 146, 255, 0.12);
+  background-color: #fff9f3;
   padding: 40px 60px;
   border-radius: 15px;
   margin: 30px auto;
@@ -5896,7 +5900,7 @@ label {
   font-weight: 600;
 }
 .box-head-single .avatar-sidebar .sidebar-website-text {
-  color: #9777fa;
+  color: #c70100;
 }
 
 .img-rd-15 {
@@ -6036,7 +6040,7 @@ label {
   .sidebar-website-text {
   font-size: 12px;
   line-height: 18px;
-  color: #9777fa;
+  color: #c70100;
 }
 .sidebar-shadow
   .sidebar-heading
@@ -6171,7 +6175,7 @@ label {
   text-decoration: none;
 }
 .ul-lists li a:hover {
-  color: #9777fa;
+  color: #c70100;
 }
 
 .btn-dots-abs-right {
@@ -6203,7 +6207,7 @@ label {
 }
 .job-meta .company {
   font-weight: bold;
-  color: #9777fa;
+  color: #c70100;
 }
 .job-meta span {
   margin-right: 15px;
@@ -6301,7 +6305,7 @@ label {
   background: rgba(6, 18, 36, 0.1);
 }
 .block-progress-status .item-progress .info-progress .progress .progress-bar {
-  background: #9777fa;
+  background: #c70100;
   border-radius: 5px;
 }
 
@@ -6423,7 +6427,7 @@ label {
   content: "";
   height: 28px;
   width: 28px;
-  background: #9777fa;
+  background: #c70100;
   opacity: 0.3;
   border-radius: 8px;
   position: absolute;
@@ -6435,7 +6439,7 @@ label {
   content: "";
   height: 28px;
   width: 28px;
-  background: #9777fa;
+  background: #c70100;
   opacity: 0.3;
   border-radius: 8px;
   position: absolute;
@@ -6667,7 +6671,7 @@ label {
   font-weight: 500;
 }
 .content-page .card-grid-2:hover {
-  border-color: rgba(151, 119, 250, 0.5);
+  border-color: #c70100;
 }
 
 .sidebar-shadow.none-shadow {
@@ -6718,7 +6722,7 @@ label {
   font-size: 12px;
   font-weight: bold;
   line-height: 14px;
-  color: #9777fa;
+  color: #c70100;
   font-family: "Tajawal", sans-serif;
 }
 
@@ -6805,7 +6809,7 @@ label {
 }
 .employers-list .card-employers:hover {
   box-shadow: 0px 20px 60px -6px rgba(0, 0, 0, 0.04);
-  border: 1px solid rgba(151, 119, 250, 0.5);
+  border: 1px solid #c70100;
 }
 .employers-list .card-employers .employers-name h5 {
   font-size: 18px;
@@ -6814,7 +6818,7 @@ label {
   color: #1f2938;
 }
 .employers-list .card-employers .employers-name h5:hover a {
-  color: #9777fa;
+  color: #c70100;
 }
 .employers-list .card-employers .employers-name .rate {
   margin-left: -20px;
@@ -6833,7 +6837,7 @@ label {
   margin-left: 10px;
 }
 .employers-list .card-employers .btn-brand-hover {
-  border: thin solid rgba(151, 119, 250, 0.5);
+  border: thin solid #c70100;
   font-size: 14px;
 }
 .employers-list .card-employers .employers-logo img {
@@ -6917,11 +6921,11 @@ label {
 }
 
 .nav-style-homepage-3 li button.active {
-  color: #9777fa;
+  color: #c70100;
   background: none;
 }
 .nav-style-homepage-3 li button:hover {
-  color: #9777fa;
+  color: #c70100;
   background: none;
 }
 .nav-style-homepage-3 > li:last-child button {

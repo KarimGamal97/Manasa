@@ -13,9 +13,9 @@ $font-xl: 20px;
 $font-2xl: 22px;
 $font-3xl: 58px;
 //2.COLOR
-$color-brand: #9777fa;
-$color-brand-2: #7856dd;
-$color-primary: #5192ff;
+$color-brand: #c70100;
+$color-brand-2: #c70100;
+$color-primary: #c70100;
 $color-text: #37404e;
 $color-heading: #1f2938;
 $color-white: #ffffff;
@@ -82,12 +82,12 @@ $background-16: rgba(81, 146, 255, 0.12);
 $background-15: rgba(239, 243, 248, 0.55);
 $background-17: #ecf4ff;
 $background-white: #ffffff;
-$background-brand: #9777fa;
+$background-brand: #c70100;
 $background-brand-hover: #6d4bd3;
 $background-urgent: #ffcfc5;
-$background-head-single: #FFF9F3;
+$background-head-single: #fff9f3;
 $background-blue-light: #c5e3ff;
-$background-blue-light-2: #E9F7FF;
+$background-blue-light-2: #e9f7ff;
 $background-primary-trans: rgba(81, 146, 255, 0.3);
 $background-primary: rgba(81, 146, 255, 1);
 $background-grey: rgba(186, 186, 186, 0.3);
@@ -97,10 +97,10 @@ $background-stroke-1: rgba(6, 18, 36, 0.1);
 $text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 // 7. breakpoints
 $grid-breakpoints: (
-    xs: 0,
-    sm: 576px,
-    md: 768px,
-    lg: 992px,
-    xl: 1200px,
-    xxl: 1400px
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px,
 );
