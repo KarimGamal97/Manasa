@@ -22,11 +22,67 @@ const translations = {
     Contact_Us: "Contact Us",
     Hello: "Hello",
     Welcome_to_our_Digital_Platform: "Welcome to our Digital Platform",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
-    "": "",
+    Language: "Language",
+    Follow_Us: "Follow Us",
+    Moving_towards_the_Digital_transformation_future:
+      "Moving towards the Digital transformation future",
+    "We_have_an_advanced_service_package_to_support_data_management_projects,_documents,_electronic_archiving,_scanning,_file_storage,_asset_inventory,_business_management_and_other_distinguished_technical_services.":
+      "We have an advanced service package to support data management projects, documents, electronic archiving, scanning, file storage, asset inventory, business management, and other distinguished technical services.",
+    "Know More": "Know More",
+    "We support digital transformation": "We support digital transformation",
+    "We help you with digital transformation and business automation Integrated digital management":
+      "We help you with digital transformation and business automation Integrated digital management",
+    "Browse all": "Browse all",
+    "File Management": "File Management",
+    "Streamline Your Workflow with Digital Document Management.":
+      "Streamline Your Workflow with Digital Document Management.",
+    "Knowledge Management": "Knowledge Management",
+    "Knowledge is an important fuel for organizations and also companies":
+      "Knowledge is an important fuel for organizations and also companies",
+    "Business Administration": "Business Administration",
+    "Empowering Businesses with Digital Document Management":
+      "Empowering Businesses with Digital Document Management",
+    "Apps & websites": "Apps & websites",
+    "It's the main window for obtaining information and services.":
+      "It's the main window for obtaining information and services.",
+    "Recent Services": "Recent Services",
+    "new opportunities posted today!": "new opportunities posted today!",
+    "We support digital transformation": "We support digital transformation",
+    "We help you with digital transformation and business automation Integrated digital management":
+      "We help you with digital transformation and business automation Integrated digital management",
+    "Data management and electronic archiving":
+      "Data management and electronic archiving",
+    "We provide data management services and solutions for archiving documents and documents":
+      "We provide data management services and solutions for archiving documents and documents",
+    "Asset and property management": "Asset and property management",
+    "We provide inventory and management services for tangible and digital assets and ECM scanning":
+      "We provide inventory and management services for tangible and digital assets and ECM scanning",
+    "Data management": "Data management",
+    "Enterprise content management ECM": "Enterprise content management ECM",
+    "Electronic archiving": "Electronic archiving",
+    "Digital Asset Management DAM": "Digital Asset Management DAM",
+    "Inventory of assets and property": "Inventory of assets and property",
+    "Electronic invoice": "Electronic invoice",
+    "Systems and applications": "Systems and applications",
+    "File storage": "File storage",
+    "Providing innovative software solutions and IT services to government sectors and companies.":
+      "Providing innovative software solutions and IT services to government sectors and companies.",
+    Company: "Company",
+    "About us": "About us",
+    "Our Clients": "Our Clients",
+    "Digital Platform": "Digital Platform",
+    Services: "Services",
+    "Fixed Assets": "Fixed Assets",
+    "File Storage": "File Storage",
+    "Management Support": "Management Support",
+    Solutions: "Solutions",
+    "Ecm-solution": "Ecm-solution",
+    "Dam-solution": "Dam-solution",
+    "Ims-solution": "Ims-solution",
+    Support: "Support",
+    "Contact Us": "Contact Us",
+    Mansa: "Mansa",
+    "All Rights Reserved": "All Rights Reserved for Manasa",
     "": "",
     "": "",
     "": "",
@@ -55,6 +111,67 @@ const translations = {
     Contact_Us: "اتصل بنا",
     Hello: "مرحبا بك",
     Welcome_to_our_Digital_Platform: " مرحبا بكم في منصتنا الرقمية ",
+    Language: "اللغة",
+    Follow_Us: "تابعنا علي ",
+    Moving_towards_the_Digital_transformation_future:
+      "التحرك نحو مستقبل التحول الرقمي",
+    "We have an advanced service package to support data management projects, documents, electronic archiving, scanning, file storage, asset inventory, business management and other distinguished technical services.":
+      "لدينا حزمة خدمات متقدمة لدعم مشاريع إدارة البيانات والمستندات والأرشفة الإلكترونية والمسح الضوئي وتخزين الملفات وجرد الأصول وإدارة الأعمال وغيرها من الخدمات الفنية المتميزة.",
+    "Know More": "اعرف المزيد",
+    "We support digital transformation": "ندعم التحول الرقمي",
+    "We help you with digital transformation and business automation Integrated digital management":
+      "نساعدك في التحول الرقمي وأتمتة الأعمال والإدارة الرقمية المتكاملة",
+    "Browse all": "تصفح الكل",
+    "File Management": "إدارة الملفات",
+    "Streamline Your Workflow with Digital Document Management.":
+      "بسّط سير عملك مع إدارة المستندات الرقمية.",
+    "Knowledge Management": "إدارة المعرفة",
+    "Knowledge is an important fuel for organizations and also companies":
+      "المعرفة وقود مهم للمؤسسات والشركات أيضًا",
+    "Business Administration": "إدارة الأعمال",
+    "Empowering Businesses with Digital Document Management":
+      "تمكين الأعمال بإدارة المستندات الرقمية",
+    "Apps & websites": "التطبيقات والمواقع الإلكترونية",
+    "It's the main window for obtaining information and services.":
+      "هي النافذة الرئيسية للحصول على المعلومات والخدمات.",
+    "Recent Services": "الخدمات الحديثة",
+    "new opportunities posted today!": "فرص جديدة نشرت اليوم!",
+    "We support digital transformation": "ندعم التحول الرقمي",
+    "We help you with digital transformation and business automation Integrated digital management":
+      "نساعدك في التحول الرقمي وأتمتة الأعمال والإدارة الرقمية المتكاملة",
+    "Data management and electronic archiving":
+      "إدارة البيانات والأرشفة الإلكترونية",
+    "We provide data management services and solutions for archiving documents and documents":
+      "نقدم خدمات وحلول إدارة البيانات للأرشفة والوثائق",
+    "Asset and property management": "إدارة الأصول والممتلكات",
+    "We provide inventory and management services for tangible and digital assets and ECM scanning":
+      "نقدم خدمات الجرد والإدارة للأصول المادية والرقمية ومسح ECM",
+    "Data management": "إدارة البيانات",
+    "Enterprise content management ECM": "إدارة محتوى المؤسسة ECM",
+    "Electronic archiving": "الأرشفة الإلكترونية",
+    "Digital Asset Management DAM": "إدارة الأصول الرقمية DAM",
+    "Inventory of assets and property": "جرد الأصول والممتلكات",
+    "Electronic invoice": "الفاتورة الإلكترونية",
+    "Systems and applications": "الأنظمة والتطبيقات",
+    "File storage": "تخزين الملفات",
+    "Providing innovative software solutions and IT services to government sectors and companies.":
+      "توفير حلول برمجية مبتكرة وخدمات تكنولوجيا المعلومات للقطاعات الحكومية والشركات.",
+    Company: "الشركة",
+    "About us": "من نحن",
+    "Our Clients": "عملائنا",
+    "Digital Platform": "المنصة الرقمية",
+    Services: "الخدمات",
+    "Fixed Assets": "الأصول الثابتة",
+    "File Storage": "تخزين الملفات",
+    "Management Support": "الدعم الإداري",
+    Solutions: "الحلول",
+    "Ecm-solution": "حل ECM",
+    "Dam-solution": "حل DAM",
+    "Ims-solution": "حل IMS",
+    Support: "الدعم",
+    "Contact Us": "اتصل بنا",
+    Mansa: "منصة",
+    "All Rights Reserved for Manasa": "جميع الحقوق محفوظة لدي منصة",
   },
 };
 
