@@ -83,6 +83,58 @@ const translations = {
     "Contact Us": "Contact Us",
     Mansa: "Mansa",
     "All Rights Reserved": "All Rights Reserved for Manasa",
+    "The #1 platform in Electronic Archiving":
+      "The #1 platform in Electronic Archiving",
+    "In the Twenty-First Century, information technology has become an important part of our lives and there is no longer any need for it due to the great services it provides to us and what we earn from it in facilitating many aspects of our lives.":
+      "In the Twenty-First Century, information technology has become an important part of our lives and there is no longer any need for it due to the great services it provides to us and what we earn from it in facilitating many aspects of our lives.",
+    "Our vision": "Our vision",
+    "To be a powerful provider of IT solutions, we share the community in building, knowledge and facilitating life.":
+      "To be a powerful provider of IT solutions, we share the community in building, knowledge and facilitating life.",
+    "Our Mission": "Our Mission",
+    "To provide high-quality technical solutions to our customers in the kingdom of Saudi Arabia and all other countries based on knowledge.":
+      "To provide high-quality technical solutions to our customers in the kingdom of Saudi Arabia and all other countries based on knowledge.",
+    "What makes us different": "What makes us different",
+    "Innovation, knowledge, experience, quality, reasonable price, integrity, quick response, depth of skills, rich experience":
+      "Innovation, knowledge, experience, quality, reasonable price, integrity, quick response, depth of skills, rich experience",
+    "Many things distinguish us, we are:":
+      "Many things distinguish us, we are:",
+    "We build long-term business relationships with clients based on ethics and transparency of dealing.":
+      "We build long-term business relationships with clients based on ethics and transparency of dealing.",
+    "We pursue simplicity in dealing, and achieve quick response.":
+      "We pursue simplicity in dealing, and achieve quick response.",
+    "We continue to learn, think and innovate, building our projects on codified scientific foundations.":
+      "We continue to learn, think and innovate, building our projects on codified scientific foundations.",
+    "We do not give up organized work, focus on the quality of the results.":
+      "We do not give up organized work, focus on the quality of the results.",
+    "Infrastructure and staff:": "Infrastructure and staff:",
+    "We focus on quality, not quantity, ethics, transparency, and short response times.":
+      "We focus on quality, not quantity, ethics, transparency, and short response times.",
+    "The digital platform monitors for the implementation of its work in the development of IT Solutions a highly experienced qualified staff, well-trained in international IT centers. All members of the team have a high professional background and possess deep skills and experience.":
+      "The digital platform monitors for the implementation of its work in the development of IT Solutions a highly experienced qualified staff, well-trained in international IT centers. All members of the team have a high professional background and possess deep skills and experience.",
+    "As a result, we can guarantee that all our digital services provided contain the highest level of quality, God willing.":
+      "As a result, we can guarantee that all our digital services provided contain the highest level of quality, God willing.",
+    "Our partners in success": "Our partners in success",
+    "Together with our partners in success, we're reaching for even greater heights.":
+      "Together with our partners in success, we're reaching for even greater heights.",
+    "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.":
+      "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.",
+    "Ministry of Education": "Ministry of Education",
+    "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.":
+      "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.",
+    "Ministry of Health": "Ministry of Health",
+    "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.":
+      "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.",
+    "Saudi Air Force": "Saudi Air Force",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
     "": "",
     "": "",
     "": "",
@@ -172,6 +224,47 @@ const translations = {
     "Contact Us": "اتصل بنا",
     Mansa: "منصة",
     "All Rights Reserved for Manasa": "جميع الحقوق محفوظة لدي منصة",
+    "The #1 platform in Electronic Archiving":
+      "المنصة رقم 1 في الأرشفة الإلكترونية",
+    "In the Twenty-First Century, information technology has become an important part of our lives and there is no longer any need for it due to the great services it provides to us and what we earn from it in facilitating many aspects of our lives.":
+      "في القرن الحادي والعشرين ، أصبحت تكنولوجيا المعلومات جزءًا مهمًا من حياتنا ولم يعد هناك حاجة إليها بعد الآن بسبب الخدمات الرائعة التي تقدمها لنا وما نكسبه منها في تسهيل العديد من جوانب حياتنا.",
+    "Our vision": "رؤيتنا",
+    "To be a powerful provider of IT solutions, we share the community in building, knowledge and facilitating life.":
+      "أن نكون مزودًا قويًا لحلول تكنولوجيا المعلومات ، نشترك مع المجتمع في بناء المعرفة وتسهيل الحياة.",
+    "Our Mission": "مهمتنا",
+    "To provide high-quality technical solutions to our customers in the kingdom of Saudi Arabia and all other countries based on knowledge.":
+      "توفير حلول تقنية عالية الجودة لعملائنا في المملكة العربية السعودية وجميع الدول الأخرى بناءً على المعرفة.",
+    "What makes us different": "ما يميزنا",
+    "Innovation, knowledge, experience, quality, reasonable price, integrity, quick response, depth of skills, rich experience":
+      "الابتكار والمعرفة والخبرة والجودة والسعر المعقول والنزاهة والاستجابة السريعة وعمق المهارات والخبرة الغنية",
+    "Many things distinguish us, we are:": "الكثير من الأشياء يميزنا ، نحن:",
+    "We build long-term business relationships with clients based on ethics and transparency of dealing.":
+      "نبني علاقات تجارية طويلة الأمد مع العملاء بناءً على الأخلاقيات والشفافية في التعامل.",
+    "We pursue simplicity in dealing, and achieve quick response.":
+      "نسعى إلى البساطة في التعامل ، وتحقيق الاستجابة السريعة.",
+    "We continue to learn, think and innovate, building our projects on codified scientific foundations.":
+      "نستمر في التعلم والتفكير والابتكار ، وبناء مشاريعنا على أسس علمية مدونة.",
+    "We do not give up organized work, focus on the quality of the results.":
+      "لا نتخلى عن العمل المنظم ، نركز على جودة النتائج.",
+    "Infrastructure and staff:": "البنية التحتية والموظفين:",
+    "We focus on quality, not quantity, ethics, transparency, and short response times.":
+      "نركز على الجودة وليس الكمية ، والأخلاقيات ، والشفافية ، وسرعة الاستجابة.",
+    "The digital platform monitors for the implementation of its work in the development of IT Solutions a highly experienced qualified staff, well-trained in international IT centers. All members of the team have a high professional background and possess deep skills and experience.":
+      "ترصد المنصة الرقمية لتنفيذ عملها في تطوير حلول تكنولوجيا المعلومات فريقًا مؤهلًا ذو خبرة عالية ، مدرب تدريباً جيداً في المراكز الدولية لتكنولوجيا المعلومات. يتمتع جميع أعضاء الفريق بخلفية مهنية عالية ويملكون مهارات وخبرات عميقة.",
+    "As a result, we can guarantee that all our digital services provided contain the highest level of quality, God willing.":
+      "ونتيجة لذلك ، يمكننا ضمان أن جميع خدماتنا الرقمية المقدمة تحتوي على أعلى مستوى من الجودة ، إن شاء الله.",
+    "Our partners in success": "شركاؤنا في النجاح",
+    "Together with our partners in success, we're reaching for even greater heights.":
+      "مع شركائنا في النجاح ، نتطلع إلى آفاق أعلى.",
+    "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.":
+      "تجعل واجهة المنصة البديهية التعاون أمرًا سهلاً ، ولا نفوت أي موعد نهائي بفضل ميزات إدارة المهام المضمنة.",
+    "Ministry of Education": "وزارة التعليم",
+    "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.":
+      "تجعل واجهة المنصة البديهية التعاون أمرًا سهلاً ، ولا نفوت أي موعد نهائي بفضل ميزات إدارة المهام المضمنة.",
+    "Ministry of Health": "وزارة الصحة",
+    "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.":
+      "تجعل واجهة المنصة البديهية التعاون أمرًا سهلاً ، ولا نفوت أي موعد نهائي بفضل ميزات إدارة المهام المضمنة.",
+    "Saudi Air Force": "القوات الجوية السعودية",
   },
 };
 
