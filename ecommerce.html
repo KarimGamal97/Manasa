@@ -53,71 +53,126 @@
               <nav class="nav-main-menu d-none d-xl-block">
                 <ul class="main-menu">
                   <li>
-                    <a class="active" href="index.html">Home</a>
+                    <a class="active" href="index.html" data-i18n="Home"
+                      >Home</a
+                    >
                   </li>
                   <li class="has-children">
-                    <a href="about.html">About Us</a>
+                    <a href="about.html" data-i18n="About">About Us</a>
                     <ul class="sub-menu">
-                      <li><a href="about.html">Digital Platform</a></li>
-                      <li><a href="clients.html">Clients</a></li>
+                      <li>
+                        <a href="about.html" data-i18n="Digital Platform"
+                          >Digital Platform</a
+                        >
+                      </li>
+                      <li>
+                        <a href="clients.html" data-i18n="Clients">Clients</a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="docs-mang.html">Services</a>
+                    <a href="docs-mang.html" data-i18n="Services">Services</a>
                     <ul class="sub-menu">
                       <li>
-                        <a href="docs-mang.html"
+                        <a
+                          href="docs-mang.html"
+                          data-i18n="Data and document management"
                           >Data and document management
                         </a>
                       </li>
                       <li>
-                        <a href="ocr.html">Scanning and electronic archiving</a>
+                        <a
+                          href="ocr.html"
+                          data-i18n="Scanning and electronic archiving"
+                          >Scanning and electronic archiving</a
+                        >
                       </li>
                       <li>
-                        <a href="support-mang.html">Management-support</a>
+                        <a
+                          href="support-mang.html"
+                          data-i18n="Management support"
+                          >Management-support</a
+                        >
                       </li>
-                      <li><a href="fixed-assets.html">Fixed-assets</a></li>
-                      <li><a href="file-storage.html">File storage </a></li>
-                      <li><a href="apps.html">Design and programming </a></li>
+                      <li>
+                        <a href="fixed-assets.html" data-i18n="Fixed assets"
+                          >Fixed-assets</a
+                        >
+                      </li>
+                      <li>
+                        <a href="file-storage.html" data-i18n="File storage"
+                          >File storage
+                        </a>
+                      </li>
+                      <li>
+                        <a href="apps.html" data-i18n="Design and programming"
+                          >Design and programming
+                        </a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="ecm-solution.html">Solutions</a>
+                    <a href="ecm-solution.html" data-i18n="Solutions"
+                      >Solutions</a
+                    >
                     <ul class="sub-menu">
-                      <li><a href="ecm-solution.html">Ecm-solution</a></li>
-                      <li><a href="dam-solution.html">Dam-solution</a></li>
-                      <li><a href="ims-solution.html">Ims-solution</a></li>
                       <li>
-                        <a href="eArchive.html"
+                        <a href="ecm-solution.html" data-i18n="Ecm solution"
+                          >Ecm-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="dam-solution.html" data-i18n="Dam solution"
+                          >Dam-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="ims-solution.html" data-i18n="Ims solution"
+                          >Ims-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a
+                          href="eArchive.html"
+                          data-i18n="Electronic documents and archiving"
                           >Electronic documents and archiving</a
                         >
                       </li>
                       <li>
-                        <a href="bus-mang.html">Resource Management ERP-CRM</a>
+                        <a
+                          href="bus-mang.html"
+                          data-i18n="Resource Management ERP CRM"
+                          >Resource Management ERP-CRM</a
+                        >
                       </li>
                       <li>
-                        <a href="know-mang.html"
+                        <a
+                          href="know-mang.html"
+                          data-i18n="Knowledge management and education"
                           >Knowledge management and education</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="ecommerce.html">Ecommerce</a>
+                    <a href="ecommerce.html" data-i18n="Ecommerce">Ecommerce</a>
                   </li>
                   <li>
-                    <a href="contact.html">Contact Us</a>
+                    <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
                   <li class="has-children">
-                    <a href="#">Language</a>
-                    <ul class="sub-menu">
+                    <!-- <a href="#">Language</a> -->
+                    <!-- <ul class="sub-menu">
                       <li><a href="index.html">English </a></li>
                       <li><a href="index-rtl.html">Arabic</a></li>
-                    </ul>
+                    </ul> -->
+                    <select id="languageSelector">
+                      <option value="en" selected>English</option>
+                      <option value="ar">Arabic</option>
+                    </select>
                   </li>
                 </ul>
               </nav>
-
               <div class="burger-icon burger-icon-white">
                 <span class="burger-icon-top"></span>
                 <span class="burger-icon-mid"></span>
@@ -136,10 +191,13 @@
           <div class="user-account">
             <img src="assets/imgs/public-imgs/avatar.png" alt="Avatar" />
             <div class="content">
-              <h6 class="user-name">
-                Hi, <span class="text-brand">User</span>
-              </h6>
-              <p class="font-xs text-muted">Welcome to our Digital Platform</p>
+              <h6 class="user-name" data-i18n="Hello">Hello</h6>
+              <p
+                class="font-xs text-muted"
+                data-i18n="Welcome to our Digital Platform"
+              >
+                Welcome to our Digital Platform
+              </p>
             </div>
           </div>
           <div class="burger-icon burger-icon-white">
@@ -150,74 +208,120 @@
         </div>
         <div class="mobile-header-content-area">
           <div class="perfect-scroll">
-            <div class="mobile-search mobile-header-border mb-30">
-              <form action="#">
-                <input type="text" placeholder="Search for items…" />
-                <i class="fi-rr-search"></i>
-              </form>
-            </div>
             <div class="mobile-menu-wrap mobile-header-border">
               <!-- mobile menu start -->
               <nav>
                 <ul class="mobile-menu font-heading">
                   <li>
-                    <a class="active" href="index.html">Home</a>
+                    <a class="active" href="index.html" data-i18n="Home"
+                      >Home</a
+                    >
                   </li>
                   <li class="has-children">
-                    <a href="about.html">About Us</a>
+                    <a href="about.html" data-i18n="About">About Us</a>
                     <ul class="sub-menu">
-                      <li><a href="about.html">Digital Platform</a></li>
-                      <li><a href="clients.html">Clients</a></li>
+                      <li>
+                        <a href="about.html" data-i18n="Digital Platform"
+                          >Digital Platform</a
+                        >
+                      </li>
+                      <li>
+                        <a href="clients.html" data-i18n="Clients">Clients</a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="docs-mang.html">Services</a>
+                    <a href="docs-mang.html" data-i18n="Services">Services</a>
                     <ul class="sub-menu">
                       <li>
-                        <a href="docs-mang.html"
+                        <a
+                          href="docs-mang.html"
+                          data-i18n="Data and document management"
                           >Data and document management
                         </a>
                       </li>
                       <li>
-                        <a href="ocr.html">Scanning and electronic archiving</a>
+                        <a
+                          href="ocr.html"
+                          data-i18n="Scanning and electronic archiving"
+                          >Scanning and electronic archiving</a
+                        >
                       </li>
                       <li>
-                        <a href="support-mang.html">Management-support</a>
+                        <a
+                          href="support-mang.html"
+                          data-i18n="Management support"
+                          >Management-support</a
+                        >
                       </li>
-                      <li><a href="fixed-assets.html">Fixed-assets</a></li>
-                      <li><a href="file-storage.html">File storage </a></li>
-                      <li><a href="apps.html">Design and programming </a></li>
+                      <li>
+                        <a href="fixed-assets.html" data-i18n="Fixed assets"
+                          >Fixed-assets</a
+                        >
+                      </li>
+                      <li>
+                        <a href="file-storage.html" data-i18n="File storage"
+                          >File storage
+                        </a>
+                      </li>
+                      <li>
+                        <a href="apps.html" data-i18n="Design and programming"
+                          >Design and programming
+                        </a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="ecm-solution.html">Solutions</a>
+                    <a href="ecm-solution.html" data-i18n="Solutions"
+                      >Solutions</a
+                    >
                     <ul class="sub-menu">
-                      <li><a href="ecm-solution.html">Ecm-solution</a></li>
-                      <li><a href="dam-solution.html">Dam-solution</a></li>
-                      <li><a href="ims-solution.html">Ims-solution</a></li>
                       <li>
-                        <a href="eArchive.html"
+                        <a href="ecm-solution.html" data-i18n="Ecm solution"
+                          >Ecm-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="dam-solution.html" data-i18n="Dam solution"
+                          >Dam-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="ims-solution.html" data-i18n="Ims solution"
+                          >Ims-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a
+                          href="eArchive.html"
+                          data-i18n="Electronic documents and archiving"
                           >Electronic documents and archiving</a
                         >
                       </li>
                       <li>
-                        <a href="bus-mang.html">Resource Management ERP-CRM</a>
+                        <a
+                          href="bus-mang.html"
+                          data-i18n="Resource Management ERP CRM"
+                          >Resource Management ERP-CRM</a
+                        >
                       </li>
                       <li>
-                        <a href="know-mang.html"
+                        <a
+                          href="know-mang.html"
+                          data-i18n="Knowledge management and education"
                           >Knowledge management and education</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="ecommerce.html">Ecommerce</a>
+                    <a href="ecommerce.html" data-i18n="Ecommerce">Ecommerce</a>
                   </li>
                   <li>
-                    <a href="contact.html">Contact Us</a>
+                    <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
                   <li class="has-children">
-                    <a href="#">Language</a>
+                    <a href="#" data-i18n="Language">Language</a>
                     <ul class="sub-menu">
                       <li><a href="index.html">English </a></li>
                       <li><a href="index-rtl.html">Arabic</a></li>
@@ -228,7 +332,7 @@
               <!-- mobile menu end -->
             </div>
             <div class="mobile-social-icon mb-50 mt-20">
-              <h6 class="mb-25">Follow Us</h6>
+              <h6 class="mb-25" data-i18n="Follow Us">Follow Us</h6>
               <a href="#"
                 ><img src="assets/imgs/public-imgs/facebook.svg" alt="facebook"
               /></a>
@@ -251,10 +355,10 @@
       <section class="section-box">
         <div class="box-head-single">
           <div class="container">
-            <h3>Store</h3>
+            <h3 data-i18n="Store">Store</h3>
             <ul class="breadcrumbs">
-              <li><a href="index.html">Home</a></li>
-              <li>Store</li>
+              <li><a href="index.html" data-i18n="Home">Home</a></li>
+              <li data-i18n="Store">Store</li>
             </ul>
           </div>
         </div>
@@ -265,11 +369,13 @@
           <div class="w-50 w-md-100 mx-auto text-center">
             <h2
               class="section-title-large mb-30 wow animate__animated animate__fadeInUp"
+              data-i18n="Digital platform store"
             >
               Digital platform store
             </h2>
             <p
               class="mb-30 text-muted wow animate__animated animate__fadeInUp font-md"
+              data-i18n="We offer you a package of digital products that support and enhance your business"
             >
               We offer you a package of digital products that support and
               enhance your business
@@ -313,13 +419,19 @@
 
       <section class="section-box bg-blue-full mt-90 mb-50">
         <div class="container">
-          <h4 class="mb-20">
-            Join us now and discover the world of digital <br />products to
-            boost your productivity.
-          </h4>
           <div class="row">
             <div class="col-lg-6">
-              <p class="text-gray-200">
+              <h4
+                class="mb-20"
+                data-i18n="Join us now and discover the world of digital products to boost your productivity."
+              >
+                Join us now and discover the world of digital <br />products to
+                boost your productivity.
+              </h4>
+              <p
+                class="text-gray-200"
+                data-i18n="We are committed to providing the finest and highest quality digital products. What sets us apart is our commitment to quality and innovation. We continue to update and develop our products to meet the latest trends and preferences in the digital market. We also provide outstanding customer support throughout the shopping trip."
+              >
                 We are committed to providing the finest and highest quality
                 digital products. What sets us apart is our commitment to
                 quality and innovation. We continue to update and develop our
@@ -328,9 +440,14 @@
                 throughout the shopping trip.
               </p>
             </div>
-            <div class="col-lg-6 pl-150 pl-md-15 mt-md-50">
+            <div
+              class="col-lg-6 pl-150 pl-md-15 mt-md-50 d-flex justify-content-center align-content-center align-items-center"
+            >
               <div class="box-button-shadow">
-                <a href="https://www.mnsah.com.sa/" class="btn btn-default"
+                <a
+                  href="https://www.mnsah.com.sa/"
+                  class="btn btn-default"
+                  data-i18n="Learn More"
                   >Learn More</a
                 >
               </div>
@@ -348,41 +465,74 @@
             <a href="index.html"
               ><img alt="Logo" src="assets/imgs/public-imgs/logo.png"
             /></a>
-            <div class="mt-20 mb-20">
+            <div
+              class="mt-20 mb-20"
+              data-i18n="Providing innovative software solutions and IT services to government sectors and companies."
+            >
               Providing innovative software solutions and IT<br />
               services to government sectors and companies.
             </div>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Company</h6>
+            <h6 data-i18n="Company">Company</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="about.html">About us</a></li>
-              <li><a href="clients.html">Our Clients</a></li>
-              <li><a href="about.html">Digital Platform</a></li>
+              <li><a href="about.html" data-i18n="About us">About us</a></li>
+              <li>
+                <a href="clients.html" data-i18n="Our Clients">Our Clients</a>
+              </li>
+              <li>
+                <a href="about.html" data-i18n="Digital Platform"
+                  >Digital Platform</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Services</h6>
+            <h6 data-i18n="Services">Services</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="fixed-assets.html">Fixed Assets</a></li>
-              <li><a href="file-storage.html">File Storage</a></li>
-              <li><a href="support-mang.html">Management Support</a></li>
+              <li>
+                <a href="fixed-assets.html" data-i18n="Fixed Assets"
+                  >Fixed Assets</a
+                >
+              </li>
+              <li>
+                <a href="file-storage.html" data-i18n="File Storage"
+                  >File Storage</a
+                >
+              </li>
+              <li>
+                <a href="support-mang.html" data-i18n="Management Support"
+                  >Management Support</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Solutions</h6>
+            <h6 data-i18n="Solutions">Solutions</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="ecm-solution.html">Ecm-solution</a></li>
-              <li><a href="dam-solution.html">Dam-solution</a></li>
-              <li><a href="ims-solution.html">Ims-solution</a></li>
+              <li>
+                <a href="ecm-solution.html" data-i18n="Ecm-solution"
+                  >Ecm-solution</a
+                >
+              </li>
+              <li>
+                <a href="dam-solution.html" data-i18n="Dam-solution"
+                  >Dam-solution</a
+                >
+              </li>
+              <li>
+                <a href="ims-solution.html" data-i18n="Ims-solution"
+                  >Ims-solution</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Support</h6>
+            <h6 data-i18n="Support">Support</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="contact.html">Contact Us</a></li>
-              <li><a href="index-rtl.html">Ar</a></li>
-              <li><a href="index.html">En</a></li>
+              <li>
+                <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -437,6 +587,7 @@
     <script src="assets/js/plugins/scrollup.js"></script>
     <script src="assets/js/plugins/swiper-bundle.min.js"></script>
     <!-- Template  JS -->
+    <script src="assets/js/i18n.js" type="module"></script>
     <script src="assets/js/main.js?v=1.0"></script>
   </body>
 </html>

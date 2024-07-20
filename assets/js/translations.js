@@ -425,6 +425,15 @@ const translations = {
     "Domain and cloud hosting service": "Domain and cloud hosting service",
     "Mobile applications for companies and various activities":
       "Mobile applications for companies and various activities",
+    Store: "Store",
+    "Digital platform store": "Digital platform store",
+    "We offer you a package of digital products that support and enhance your business":
+      "We offer you a package of digital products that support and enhance your business",
+    "Join us now and discover the world of digital products to boost your productivity.":
+      "Join us now and discover the world of digital products to boost your productivity.",
+    "We are committed to providing the finest and highest quality digital products. What sets us apart is our commitment to quality and innovation. We continue to update and develop our products to meet the latest trends and preferences in the digital market. We also provide outstanding customer support throughout the shopping trip.":
+      "We are committed to providing the finest and highest quality digital products. What sets us apart is our commitment to quality and innovation. We continue to update and develop our products to meet the latest trends and preferences in the digital market. We also provide outstanding customer support throughout the shopping trip.",
+    "Learn More": "Learn More",
     "": "",
     "": "",
     "": "",
@@ -838,6 +847,15 @@ const translations = {
     "Domain and cloud hosting service": "خدمة الاستضافة السحابية والنطاق",
     "Mobile applications for companies and various activities":
       "تطبيقات محمولة للشركات وأنشطة متنوعة",
+    Store: "متجر",
+    "Digital platform store": "متجر المنصة الرقمية",
+    "We offer you a package of digital products that support and enhance your business":
+      "نحن نقدم لك مجموعة من المنتجات الرقمية التي تدعم وتعزز أعمالك",
+    "Join us now and discover the world of digital products to boost your productivity.":
+      "انضم إلينا الآن واكتشف عالم المنتجات الرقمية لتعزيز إنتاجيتك.",
+    "We are committed to providing the finest and highest quality digital products. What sets us apart is our commitment to quality and innovation. We continue to update and develop our products to meet the latest trends and preferences in the digital market. We also provide outstanding customer support throughout the shopping trip.":
+      "نحن ملتزمون بتقديم أرقى وأعلى جودة من المنتجات الرقمية. ما يميزنا هو التزامنا بالجودة والابتكار. نحن نواصل تحديث وتطوير منتجاتنا لتلبية أحدث الاتجاهات والتفضيلات في السوق الرقمية. كما نقدم دعمًا مميزًا للعملاء طوال رحلة التسوق.",
+    "Learn More": "تعرف على المزيد",
   },
 };
 
