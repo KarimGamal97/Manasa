@@ -368,7 +368,63 @@ const translations = {
     Reports: "Reports",
     Notifications: "Notifications",
     "Multiple locations": "Multiple locations",
-    "": "",
+    "The documents kept in the files are the beating heart of the organization, whether companies, government sector or non-profit Organizations may need an entity that hosts, stores, protects and manages files.":
+      "The documents kept in the files are the beating heart of the organization, whether companies, government sector or non-profit Organizations may need an entity that hosts, stores, protects and manages files.",
+    "We work with you to provide a secure storage to save, protect and manage your files through a number of services:":
+      "We work with you to provide a secure storage to save, protect and manage your files through a number of services:",
+    "Providing a secure storage equipped with security and protection means to save and store files":
+      "Providing a secure storage equipped with security and protection means to save and store files",
+    "Provision of filing boxes": "Provision of filing boxes",
+    "Inventory files and put barcode labels on boxes":
+      "Inventory files and put barcode labels on boxes",
+    "Full and on-demand document scanning":
+      "Full and on-demand document scanning",
+    "Transfer, paging and delivery of files on request":
+      "Transfer, paging and delivery of files on request",
+    "Photocopying of paper documents": "Photocopying of paper documents",
+    "Provide a borrowing system and file storage management":
+      "Provide a borrowing system and file storage management",
+    "Providing a cloud delivery and storage system":
+      "Providing a cloud delivery and storage system",
+    "Documentation and archives center": "Documentation and archives center",
+
+    "Mobile applications and responsive websites form the main window to obtain information and services so that everyone carries mobile devices and tablets to take advantage of applications to obtain information and services, and in turn, we provide design and programming services for applications and responsive websites with modern devices.":
+      "Mobile applications and responsive websites form the main window to obtain information and services so that everyone carries mobile devices and tablets to take advantage of applications to obtain information and services, and in turn, we provide design and programming services for applications and responsive websites with modern devices.",
+    "We know that knowledge is growing in academic circles, laboratories and companies that practice research and development and we understand the value of ideas and business plans of customers.we have provided modern technical resources to meet the growing demand for programming and designing mobile applications and responsive websites for mobile and tablets. we provide programming and design services for your applications and websites and we are based on a strict work methodology in order to achieve quality in our final product that satisfies the customer.":
+      "We know that knowledge is growing in academic circles, laboratories and companies that practice research and development and we understand the value of ideas and business plans of customers.we have provided modern technical resources to meet the growing demand for programming and designing mobile applications and responsive websites for mobile and tablets. we provide programming and design services for your applications and websites and we are based on a strict work methodology in order to achieve quality in our final product that satisfies the customer.",
+    "Our staff can design and program iPhone IOS and Android Android applications":
+      "Our staff can design and program iPhone IOS and Android Android applications",
+    "It has become possible to realize your ideas and turn them into applications that work from service applications and Information applications suitable for various activities of the government, health, finance, insurance, industrial and commercial sectors and various activities and ideas that can be automated into mobile applications.":
+      "It has become possible to realize your ideas and turn them into applications that work from service applications and Information applications suitable for various activities of the government, health, finance, insurance, industrial and commercial sectors and various activities and ideas that can be automated into mobile applications.",
+    "The benefits of responsive mobile apps and websites":
+      "The benefits of responsive mobile apps and websites",
+    "Mobile applications and responsive websites enable the display of knowledge content and intelligent information management systems that enable business automation and transformation into advanced electronic services :":
+      "Mobile applications and responsive websites enable the display of knowledge content and intelligent information management systems that enable business automation and transformation into advanced electronic services :",
+    "Applications provide a quick window at hand to access information and services":
+      "Applications provide a quick window at hand to access information and services",
+    "Supports different learning systems and academic systems.":
+      "Supports different learning systems and academic systems.",
+    "Facilitates the display, sale and shipment of products.":
+      "Facilitates the display, sale and shipment of products.",
+    "Mobile applications and responsive websites enable the display of knowledge content and intelligent information management systems that enable business automation and transformation into advanced electronic services :":
+      "Mobile applications and responsive websites enable the display of knowledge content and intelligent information management systems that enable business automation and transformation into advanced electronic services :",
+    "Enterprise Resource Planning Department":
+      "Enterprise Resource Planning Department",
+    "Sale, shipping and delivery of products":
+      "Sale, shipping and delivery of products",
+    "Various educational and professional applications":
+      "Various educational and professional applications",
+    "We develop more technical solutions according to customer requirements:":
+      "We develop more technical solutions according to customer requirements:",
+    "Internet sites for companies and various activities":
+      "Internet sites for companies and various activities",
+    "Processing and operation of e-mail accounts":
+      "Processing and operation of e-mail accounts",
+    "Processing of promotional and marketing content":
+      "Processing of promotional and marketing content",
+    "Domain and cloud hosting service": "Domain and cloud hosting service",
+    "Mobile applications for companies and various activities":
+      "Mobile applications for companies and various activities",
     "": "",
     "": "",
     "": "",
@@ -729,6 +785,59 @@ const translations = {
     Reports: "التقارير",
     Notifications: "الإشعارات",
     "Multiple locations": "مواقع متعددة",
+    "The documents kept in the files are the beating heart of the organization, whether companies, government sector or non-profit Organizations may need an entity that hosts, stores, protects and manages files.":
+      "الوثائق المحفوظة في الملفات هي القلب النابض للمنظمة، سواء كانت شركات أو قطاع حكومي أو منظمات غير ربحية قد تحتاج إلى جهة تستضيف وتخزن وتحمي وتدير الملفات.",
+    "We work with you to provide a secure storage to save, protect and manage your files through a number of services:":
+      "نعمل معك لتوفير تخزين آمن لحفظ وحماية وإدارة ملفاتك من خلال عدد من الخدمات:",
+    "Providing a secure storage equipped with security and protection means to save and store files":
+      "توفير تخزين آمن مجهز بوسائل الأمن والحماية لحفظ وتخزين الملفات",
+    "Provision of filing boxes": "توفير صناديق حفظ الملفات",
+    "Inventory files and put barcode labels on boxes":
+      "جرد الملفات ووضع ملصقات الباركود على الصناديق",
+    "Full and on-demand document scanning": "مسح ضوئي كامل وحسب الطلب للوثائق",
+    "Transfer, paging and delivery of files on request":
+      "نقل وترتيب وتسليم الملفات عند الطلب",
+    "Photocopying of paper documents": "تصوير الوثائق الورقية",
+    "Provide a borrowing system and file storage management":
+      "توفير نظام استعارة وإدارة تخزين الملفات",
+    "Providing a cloud delivery and storage system":
+      "توفير نظام تسليم وتخزين سحابي",
+    "Documentation and archives center": "مركز التوثيق والأرشيف",
+    "Mobile applications and responsive websites form the main window to obtain information and services so that everyone carries mobile devices and tablets to take advantage of applications to obtain information and services, and in turn, we provide design and programming services for applications and responsive websites with modern devices.":
+      "تُعد التطبيقات المحمولة والمواقع الإلكترونية المستجيبة النافذة الرئيسية للحصول على المعلومات والخدمات حيث يحمل الجميع الأجهزة المحمولة والأجهزة اللوحية للاستفادة من التطبيقات للحصول على المعلومات والخدمات، وبالمقابل، نحن نقدم خدمات تصميم وبرمجة التطبيقات والمواقع الإلكترونية المستجيبة مع الأجهزة الحديثة.",
+    "We know that knowledge is growing in academic circles, laboratories and companies that practice research and development and we understand the value of ideas and business plans of customers.we have provided modern technical resources to meet the growing demand for programming and designing mobile applications and responsive websites for mobile and tablets. we provide programming and design services for your applications and websites and we are based on a strict work methodology in order to achieve quality in our final product that satisfies the customer.":
+      "نعلم أن المعرفة تتزايد في الأوساط الأكاديمية والمختبرات والشركات التي تمارس البحث والتطوير ونحن نفهم قيمة الأفكار وخطط الأعمال للعملاء. لقد وفرنا موارد تقنية حديثة لتلبية الطلب المتزايد على برمجة وتصميم التطبيقات المحمولة والمواقع الإلكترونية المستجيبة للأجهزة المحمولة والأجهزة اللوحية. نحن نقدم خدمات البرمجة والتصميم لتطبيقاتك ومواقعك الإلكترونية ونحن نعتمد على منهجية عمل صارمة من أجل تحقيق الجودة في منتجنا النهائي الذي يرضي العميل.",
+    "Our staff can design and program iPhone IOS and Android Android applications":
+      "يمكن لفريقنا تصميم وبرمجة تطبيقات iPhone IOS وAndroid.",
+    "It has become possible to realize your ideas and turn them into applications that work from service applications and Information applications suitable for various activities of the government, health, finance, insurance, industrial and commercial sectors and various activities and ideas that can be automated into mobile applications.":
+      "أصبح من الممكن تحقيق أفكارك وتحويلها إلى تطبيقات تعمل من التطبيقات الخدمية وتطبيقات المعلومات المناسبة لمختلف أنشطة الحكومة والصحة والتمويل والتأمين والقطاعات الصناعية والتجارية ومختلف الأنشطة والأفكار التي يمكن أتمتتها في تطبيقات محمولة.",
+    "The benefits of responsive mobile apps and websites":
+      "فوائد التطبيقات المحمولة والمواقع الإلكترونية المستجيبة",
+    "Mobile applications and responsive websites enable the display of knowledge content and intelligent information management systems that enable business automation and transformation into advanced electronic services :":
+      "تُمكن التطبيقات المحمولة والمواقع الإلكترونية المستجيبة من عرض محتوى المعرفة وأنظمة إدارة المعلومات الذكية التي تُمكن من أتمتة الأعمال والتحول إلى خدمات إلكترونية متقدمة:",
+    "Applications provide a quick window at hand to access information and services":
+      "توفر التطبيقات نافذة سريعة للحصول على المعلومات والخدمات",
+    "Supports different learning systems and academic systems.":
+      "تدعم أنظمة التعلم المختلفة والأنظمة الأكاديمية.",
+    "Facilitates the display, sale and shipment of products.":
+      "تسهل عرض وبيع وشحن المنتجات.",
+    "Mobile applications and responsive websites enable the display of knowledge content and intelligent information management systems that enable business automation and transformation into advanced electronic services :":
+      "تُمكن التطبيقات المحمولة والمواقع الإلكترونية المستجيبة من عرض محتوى المعرفة وأنظمة إدارة المعلومات الذكية التي تُمكن من أتمتة الأعمال والتحول إلى خدمات إلكترونية متقدمة:",
+    "Enterprise Resource Planning Department": "قسم تخطيط موارد المؤسسات",
+    "Sale, shipping and delivery of products": "بيع وشحن وتسليم المنتجات",
+    "Various educational and professional applications":
+      "تطبيقات تعليمية ومهنية متنوعة",
+    "We develop more technical solutions according to customer requirements:":
+      "نطور المزيد من الحلول التقنية وفقًا لمتطلبات العملاء:",
+    "Internet sites for companies and various activities":
+      "مواقع إنترنت للشركات وأنشطة متنوعة",
+    "Processing and operation of e-mail accounts":
+      "معالجة وتشغيل حسابات البريد الإلكتروني",
+    "Processing of promotional and marketing content":
+      "معالجة المحتوى الترويجي والتسويقي",
+    "Domain and cloud hosting service": "خدمة الاستضافة السحابية والنطاق",
+    "Mobile applications for companies and various activities":
+      "تطبيقات محمولة للشركات وأنشطة متنوعة",
   },
 };
 
