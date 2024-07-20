@@ -335,6 +335,41 @@ const translations = {
       "We provide many systems to manage office tasks:",
     "Task and schedule management tools-document and file management systems-electronic content management software-digital archiving tools for digitizing and saving paper files in an organized way-call and email tracking systems-CRM programs-automation of administrative processes and workflow programs for organizing and optimizing processes-electronic approval systems to speed up the progress of procedures.":
       "Task and schedule management tools-document and file management systems-electronic content management software-digital archiving tools for digitizing and saving paper files in an organized way-call and email tracking systems-CRM programs-automation of administrative processes and workflow programs for organizing and optimizing processes-electronic approval systems to speed up the progress of procedures.",
+
+    "Fixed Assets": "Fixed Assets",
+    "Full control and management of your assets":
+      "Full control and management of your assets",
+    "The management of fixed, mobile and digital assets of enterprises and organizations is a big burden in business, as they need to know them, record their data, find out who is responsible for them, control their operation and maintenance, monitor their costs and track them continuously":
+      "The management of fixed, mobile and digital assets of enterprises and organizations is a big burden in business, as they need to know them, record their data, find out who is responsible for them, control their operation and maintenance, monitor their costs and track them continuously",
+    "It may take a considerable amount of time to collect all the information of your assets located in buildings, rooms, offices, field sites and in the possession of employees. We will work to bring all assets under control and control, whether it is manufacturing equipment or machines, or standard office assets such as air conditioning units or boilers and even digital assets, we will inventory these assets and create an asset register that enables you to control and set up maintenance schedules":
+      "It may take a considerable amount of time to collect all the information of your assets located in buildings, rooms, offices, field sites and in the possession of employees. We will work to bring all assets under control and control, whether it is manufacturing equipment or machines, or standard office assets such as air conditioning units or boilers and even digital assets, we will inventory these assets and create an asset register that enables you to control and set up maintenance schedules",
+    "Inventory of various assets of the organization, both fixed, mobile and digital":
+      "Inventory of various assets of the organization, both fixed, mobile and digital",
+    "Collection and recording of asset data":
+      "Collection and recording of asset data",
+    "Provision of asset management systems":
+      "Provision of asset management systems",
+    "Installation of barcode labels for asset tracking":
+      "Installation of barcode labels for asset tracking",
+    "Inventory of warehouses and warehouses":
+      "Inventory of warehouses and warehouses",
+    "Control of receiving and cashing operations":
+      "Control of receiving and cashing operations",
+    "Set and schedule maintenance operations":
+      "Set and schedule maintenance operations",
+    "Asset Management System": "Asset Management System",
+    "Get the advanced cloud Asset Management System":
+      "Get the advanced cloud Asset Management System",
+    "Registration of data": "Registration of data",
+    "User management": "User management",
+    "Barcodes and QR": "Barcodes and QR",
+    Maintenance: "Maintenance",
+    "Search and query": "Search and query",
+    Reports: "Reports",
+    Notifications: "Notifications",
+    "Multiple locations": "Multiple locations",
+    "": "",
+    "": "",
     "": "",
     "": "",
     "": "",
@@ -666,6 +701,34 @@ const translations = {
       "نحن نقدم العديد من الأنظمة لإدارة مهام المكتب:",
     "Task and schedule management tools-document and file management systems-electronic content management software-digital archiving tools for digitizing and saving paper files in an organized way-call and email tracking systems-CRM programs-automation of administrative processes and workflow programs for organizing and optimizing processes-electronic approval systems to speed up the progress of procedures.":
       "أدوات إدارة المهام والجدولة-أنظمة إدارة الوثائق والملفات-برامج إدارة المحتوى الإلكتروني-أدوات الأرشفة الرقمية لتحويل الملفات الورقية إلى رقمية وحفظها بطريقة منظمة-أنظمة تتبع المكالمات والبريد الإلكتروني-برامج إدارة علاقات العملاء-أتمتة العمليات الإدارية وبرامج سير العمل لتنظيم وتحسين العمليات-أنظمة الموافقات الإلكترونية لتسريع تقدم الإجراءات.",
+    "Fixed Assets": "الأصول الثابتة",
+    "Full control and management of your assets":
+      "السيطرة الكاملة وإدارة أصولك",
+    "The management of fixed, mobile and digital assets of enterprises and organizations is a big burden in business, as they need to know them, record their data, find out who is responsible for them, control their operation and maintenance, monitor their costs and track them continuously":
+      "إدارة الأصول الثابتة، المتنقلة والرقمية للمؤسسات والمنظمات عبء كبير في الأعمال، حيث يحتاجون إلى معرفتها، تسجيل بياناتها، معرفة المسؤول عنها، التحكم في تشغيلها وصيانتها، مراقبة تكاليفها وتتبعها باستمرار",
+    "It may take a considerable amount of time to collect all the information of your assets located in buildings, rooms, offices, field sites and in the possession of employees. We will work to bring all assets under control and control, whether it is manufacturing equipment or machines, or standard office assets such as air conditioning units or boilers and even digital assets, we will inventory these assets and create an asset register that enables you to control and set up maintenance schedules":
+      "قد يستغرق جمع جميع معلومات أصولك الموجودة في المباني، الغرف، المكاتب، المواقع الميدانية وفي حيازة الموظفين وقتًا طويلاً. سنعمل على جلب جميع الأصول تحت السيطرة، سواء كانت معدات تصنيع أو آلات، أو أصول مكتبية قياسية مثل وحدات التكييف أو الغلايات وحتى الأصول الرقمية، سنقوم بجرد هذه الأصول وإنشاء سجل أصول يمكّنك من التحكم ووضع جداول الصيانة",
+    "Inventory of various assets of the organization, both fixed, mobile and digital":
+      "جرد الأصول المختلفة للمنظمة، سواء الثابتة، المتنقلة أو الرقمية",
+    "Collection and recording of asset data": "جمع وتسجيل بيانات الأصول",
+    "Provision of asset management systems": "توفير أنظمة إدارة الأصول",
+    "Installation of barcode labels for asset tracking":
+      "تركيب ملصقات الباركود لتتبع الأصول",
+    "Inventory of warehouses and warehouses": "جرد المخازن والمستودعات",
+    "Control of receiving and cashing operations":
+      "التحكم في عمليات الاستلام والصرف",
+    "Set and schedule maintenance operations": "تحديد وجدولة عمليات الصيانة",
+    "Asset Management System": "نظام إدارة الأصول",
+    "Get the advanced cloud Asset Management System":
+      "احصل على نظام إدارة الأصول السحابي المتقدم",
+    "Registration of data": "تسجيل البيانات",
+    "User management": "إدارة المستخدمين",
+    "Barcodes and QR": "الباركود و QR",
+    Maintenance: "الصيانة",
+    "Search and query": "البحث والاستعلام",
+    Reports: "التقارير",
+    Notifications: "الإشعارات",
+    "Multiple locations": "مواقع متعددة",
   },
 };
 
