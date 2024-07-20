@@ -434,6 +434,19 @@ const translations = {
     "We are committed to providing the finest and highest quality digital products. What sets us apart is our commitment to quality and innovation. We continue to update and develop our products to meet the latest trends and preferences in the digital market. We also provide outstanding customer support throughout the shopping trip.":
       "We are committed to providing the finest and highest quality digital products. What sets us apart is our commitment to quality and innovation. We continue to update and develop our products to meet the latest trends and preferences in the digital market. We also provide outstanding customer support throughout the shopping trip.",
     "Learn More": "Learn More",
+
+    "Get in Touch": "Get in Touch",
+    "You are always welcome to visit Us": "You are always welcome to visit Us",
+    Phone: "Phone",
+    Email: "Email",
+    Address: "Address",
+    "Prince Fahad Ibn Ibrahim Al Saud St Riyadh 12642, Saudi Arabia":
+      "Prince Fahad Ibn Ibrahim Al Saud St Riyadh 12642, Saudi Arabia",
+    "Send Message": "Send Message",
+    "Drop Us a Line": "Drop Us a Line",
+    "Your email address will not be published. Required fields are marked":
+      "Your email address will not be published. Required fields are marked",
+    "": "",
     "": "",
     "": "",
     "": "",
@@ -856,6 +869,17 @@ const translations = {
     "We are committed to providing the finest and highest quality digital products. What sets us apart is our commitment to quality and innovation. We continue to update and develop our products to meet the latest trends and preferences in the digital market. We also provide outstanding customer support throughout the shopping trip.":
       "نحن ملتزمون بتقديم أرقى وأعلى جودة من المنتجات الرقمية. ما يميزنا هو التزامنا بالجودة والابتكار. نحن نواصل تحديث وتطوير منتجاتنا لتلبية أحدث الاتجاهات والتفضيلات في السوق الرقمية. كما نقدم دعمًا مميزًا للعملاء طوال رحلة التسوق.",
     "Learn More": "تعرف على المزيد",
+    "Get in Touch": "تواصل معنا",
+    "You are always welcome to visit Us": "نرحب بكم دائمًا لزيارتنا",
+    Phone: "هاتف",
+    Email: "البريد الإلكتروني",
+    Address: "العنوان",
+    "Prince Fahad Ibn Ibrahim Al Saud St Riyadh 12642, Saudi Arabia":
+      "شارع الأمير فهد بن إبراهيم آل سعود، الرياض 12642، المملكة العربية السعودية",
+    "Send Message": "أرسل رسالة",
+    "Drop Us a Line": "اترك لنا رسالة",
+    "Your email address will not be published. Required fields are marked":
+      "لن يتم نشر عنوان بريدك الإلكتروني. الحقول المطلوبة محددة",
   },
 };
 
