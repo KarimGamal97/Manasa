@@ -230,7 +230,111 @@ const translations = {
       "Developing the policies and procedures of the documents and archives center based on the standards of the National Center for documents and Archives in the kingdom of Saudi Arabia",
     "Services for the safe destruction of expired documents":
       "Services for the safe destruction of expired documents",
-    "": "",
+
+    "Scanning and electronic archiving": "Scanning and electronic archiving",
+    "The scanning task is of great importance in the process of switching to electronic archiving and electronic document management":
+      "The scanning task is of great importance in the process of switching to electronic archiving and electronic document management",
+    "Scanning and Archiving:": "Scanning and Archiving:",
+    "The scanning task may be a major obstacle for many government agencies and companies, especially those that have a long time record that has produced a huge amount of documents and paper documents. Due to the desire for rapid transformation of electronic management, there is a need for a specialized entity that provides scanning services for documents and documents.":
+      "The scanning task may be a major obstacle for many government agencies and companies, especially those that have a long time record that has produced a huge amount of documents and paper documents. Due to the desire for rapid transformation of electronic management, there is a need for a specialized entity that provides scanning services for documents and documents.",
+    "We provide support services to clients to complete the scanning of this huge amount of paper documents and convert them into electronic copies safely, quickly and efficiently through the presence of a qualified team and advanced electronic equipment.":
+      "We provide support services to clients to complete the scanning of this huge amount of paper documents and convert them into electronic copies safely, quickly and efficiently through the presence of a qualified team and advanced electronic equipment.",
+    "The benefits of scanning documents and documents:":
+      "The benefits of scanning documents and documents:",
+    "Limits and prevents the loss and damage of paper files and records as it provides electronic copies.":
+      "Limits and prevents the loss and damage of paper files and records as it provides electronic copies.",
+    "Saves the consumed storage spaces in the storage of files and paper records.":
+      "Saves the consumed storage spaces in the storage of files and paper records.",
+    "Reduces the need for physical storage (conventional safes).":
+      "Reduces the need for physical storage (conventional safes).",
+    "Lets manage records and documents with ease.":
+      "Lets manage records and documents with ease.",
+    "It allows quick searches and finding the required documents in record time.":
+      "It allows quick searches and finding the required documents in record time.",
+    "Enables the centralized availability of document images to the relevant staff.":
+      "Enables the centralized availability of document images to the relevant staff.",
+    "Provides secure copying of files and records speeds up the recovery process in the event of fire or disaster, God forbid.":
+      "Provides secure copying of files and records speeds up the recovery process in the event of fire or disaster, God forbid.",
+    "In what field can scanning technologies be used":
+      "In what field can scanning technologies be used",
+    "Documents, documents, records.": "Documents, documents, records.",
+    "Invoices, contracts, letters.": "Invoices, contracts, letters.",
+    "Medical records and files.": "Medical records and files.",
+    "Accounting books and financial records.":
+      "Accounting books and financial records.",
+    "Waybills and customs clearance.": "Waybills and customs clearance.",
+    "Reports, catalogs, brochures.": "Reports, catalogs, brochures.",
+    "Maps and engineering schemes.": "Maps and engineering schemes.",
+    "Newspapers and magazines.": "Newspapers and magazines.",
+    "Books, manuscripts, theses, research papers.":
+      "Books, manuscripts, theses, research papers.",
+    "Historical maps or other documents": "Historical maps or other documents",
+    "Construction plans": "Construction plans",
+    "Engineering drawings": "Engineering drawings",
+    "Artistic works": "Artistic works",
+    "Advertising posters and brochures": "Advertising posters and brochures",
+    "Electronic archiving and scanning services:":
+      "Electronic archiving and scanning services:",
+    "Scanning of documents, documents, books, magazines, newspapers.":
+      "Scanning of documents, documents, books, magazines, newspapers.",
+    "Production of all electronic formats of JPEG – TIIF – PDF image files":
+      "Production of all electronic formats of JPEG – TIIF – PDF image files",
+    "Index, digitize, organize and encode files and documents.":
+      "Index, digitize, organize and encode files and documents.",
+    "Electronic copying and saving to network drives.":
+      "Electronic copying and saving to network drives.",
+    "Data entry and uploading of electronic files for archiving and document management systems.":
+      "Data entry and uploading of electronic files for archiving and document management systems.",
+    "Secure and confidential destruction of scanned documents.":
+      "Secure and confidential destruction of scanned documents.",
+    "Building electronic storage systems, backup and restore files":
+      "Building electronic storage systems, backup and restore files",
+
+    "Companies, private organizations, government and non-profit organizations need to provide effective administrative support to offices to ensure the smooth functioning that achieves the organization's goals.":
+      "Companies, private organizations, government and non-profit organizations need to provide effective administrative support to offices to ensure the smooth functioning that achieves the organization's goals.",
+    "We help you to:": "We help you to:",
+    "Archiving and documentation:": "Archiving and documentation:",
+    "Organize and arrange Office files and documents and index them in an organized and easy-to-access way.":
+      "Organize and arrange Office files and documents and index them in an organized and easy-to-access way.",
+    "Creating an electronic archiving system to save and manage digital files.":
+      "Creating an electronic archiving system to save and manage digital files.",
+    "Enhancing data security and maintaining confidentiality.":
+      "Enhancing data security and maintaining confidentiality.",
+    "Development of procedures for the documentation of the organization":
+      "Development of procedures for the documentation of the organization",
+    "Development of workflow for documents of the organization":
+      "Development of workflow for documents of the organization",
+    "Corporate Communication Department:":
+      "Corporate Communication Department:",
+    "Development of corporate communication procedures of the organization.":
+      "Development of corporate communication procedures of the organization.",
+    "Create your own email and templates.":
+      "Create your own email and templates.",
+    "Building the corporate communication policy of the organization.":
+      "Building the corporate communication policy of the organization.",
+    "Develop a system of support tickets and receive customer requests.":
+      "Develop a system of support tickets and receive customer requests.",
+    "Formatting and scheduling:": "Formatting and scheduling:",
+    "Development of procedures for managing the schedule of meetings and arranging meetings.":
+      "Development of procedures for managing the schedule of meetings and arranging meetings.",
+    "Coordination systems between employees and departments to ensure the smooth flow of work.":
+      "Coordination systems between employees and departments to ensure the smooth flow of work.",
+    "Systems follow-up tasks and projects and remind employees of deadlines.":
+      "Systems follow-up tasks and projects and remind employees of deadlines.",
+    "Continuous development and improvement:":
+      "Continuous development and improvement:",
+    "Identify opportunities for improvement in administrative processes.":
+      "Identify opportunities for improvement in administrative processes.",
+    "Implementation of initiatives to simplify procedures and increase efficiency.":
+      "Implementation of initiatives to simplify procedures and increase efficiency.",
+    "Continuous training and development of administrative staff.":
+      "Continuous training and development of administrative staff.",
+    "Developing practices that contribute to the success of the work.":
+      "Developing practices that contribute to the success of the work.",
+    "We provide many systems to manage office tasks:":
+      "We provide many systems to manage office tasks:",
+    "Task and schedule management tools-document and file management systems-electronic content management software-digital archiving tools for digitizing and saving paper files in an organized way-call and email tracking systems-CRM programs-automation of administrative processes and workflow programs for organizing and optimizing processes-electronic approval systems to speed up the progress of procedures.":
+      "Task and schedule management tools-document and file management systems-electronic content management software-digital archiving tools for digitizing and saving paper files in an organized way-call and email tracking systems-CRM programs-automation of administrative processes and workflow programs for organizing and optimizing processes-electronic approval systems to speed up the progress of procedures.",
     "": "",
     "": "",
     "": "",
@@ -462,6 +566,106 @@ const translations = {
       "تطوير سياسات وإجراءات مركز الوثائق والأرشيف بناءً على معايير المركز الوطني للوثائق والأرشيف في المملكة العربية السعودية",
     "Services for the safe destruction of expired documents":
       "خدمات التدمير الآمن للوثائق المنتهية الصلاحية",
+    "Scanning and electronic archiving": "المسح الضوئي والأرشفة الإلكترونية",
+    "The scanning task is of great importance in the process of switching to electronic archiving and electronic document management":
+      "مهمة المسح الضوئي ذات أهمية كبيرة في عملية التحول إلى الأرشفة الإلكترونية وإدارة الوثائق الإلكترونية",
+    "Scanning and Archiving:": "المسح الضوئي والأرشفة:",
+    "The scanning task may be a major obstacle for many government agencies and companies, especially those that have a long time record that has produced a huge amount of documents and paper documents. Due to the desire for rapid transformation of electronic management, there is a need for a specialized entity that provides scanning services for documents and documents.":
+      "قد تكون مهمة المسح الضوئي عقبة كبيرة أمام العديد من الجهات الحكومية والشركات، خاصة تلك التي لديها سجل طويل الأمد أنتج كمية هائلة من الوثائق والمستندات الورقية. نظرًا للرغبة في التحول السريع إلى الإدارة الإلكترونية، هناك حاجة إلى جهة متخصصة تقدم خدمات المسح الضوئي للوثائق والمستندات.",
+    "We provide support services to clients to complete the scanning of this huge amount of paper documents and convert them into electronic copies safely, quickly and efficiently through the presence of a qualified team and advanced electronic equipment.":
+      "نحن نقدم خدمات الدعم للعملاء لإتمام عملية مسح هذا الكم الهائل من الوثائق الورقية وتحويلها إلى نسخ إلكترونية بأمان وسرعة وكفاءة من خلال وجود فريق مؤهل ومعدات إلكترونية متقدمة.",
+    "The benefits of scanning documents and documents:":
+      "فوائد مسح الوثائق والمستندات:",
+    "Limits and prevents the loss and damage of paper files and records as it provides electronic copies.":
+      "يحد ويمنع فقدان وتلف الملفات والسجلات الورقية حيث يوفر نسخًا إلكترونية.",
+    "Saves the consumed storage spaces in the storage of files and paper records.":
+      "يوفر المساحات المستهلكة في تخزين الملفات والسجلات الورقية.",
+    "Reduces the need for physical storage (conventional safes).":
+      "يقلل من الحاجة إلى التخزين الفعلي (الخزائن التقليدية).",
+    "Lets manage records and documents with ease.":
+      "يسمح بإدارة السجلات والوثائق بسهولة.",
+    "It allows quick searches and finding the required documents in record time.":
+      "يسمح بالبحث السريع والعثور على الوثائق المطلوبة في وقت قياسي.",
+    "Enables the centralized availability of document images to the relevant staff.":
+      "يمكّن من توافر صور الوثائق بشكل مركزي للموظفين المعنيين.",
+    "Provides secure copying of files and records speeds up the recovery process in the event of fire or disaster, God forbid.":
+      "يوفر نسخًا آمنة للملفات والسجلات مما يسرع عملية الاستعادة في حالة الحريق أو الكوارث، لا سمح الله.",
+    "In what field can scanning technologies be used":
+      "في أي مجال يمكن استخدام تقنيات المسح الضوئي",
+    "Documents, documents, records.": "الوثائق، المستندات، السجلات.",
+    "Invoices, contracts, letters.": "الفواتير، العقود، الرسائل.",
+    "Medical records and files.": "السجلات والملفات الطبية.",
+    "Accounting books and financial records.": "كتب المحاسبة والسجلات المالية.",
+    "Waybills and customs clearance.": "بوالص الشحن والتخليص الجمركي.",
+    "Reports, catalogs, brochures.": "التقارير، الكتالوجات، الكتيبات.",
+    "Maps and engineering schemes.": "الخرائط والمخططات الهندسية.",
+    "Newspapers and magazines.": "الصحف والمجلات.",
+    "Books, manuscripts, theses, research papers.":
+      "الكتب، المخطوطات، الأطروحات، الأوراق البحثية.",
+    "Historical maps or other documents": "الخرائط التاريخية أو الوثائق الأخرى",
+    "Construction plans": "خطط البناء",
+    "Engineering drawings": "الرسومات الهندسية",
+    "Artistic works": "الأعمال الفنية",
+    "Advertising posters and brochures": "الملصقات الإعلانية والكتيبات",
+    "Electronic archiving and scanning services:":
+      "خدمات الأرشفة الإلكترونية والمسح الضوئي:",
+    "Scanning of documents, documents, books, magazines, newspapers.":
+      "مسح الوثائق والمستندات والكتب والمجلات والصحف.",
+    "Production of all electronic formats of JPEG – TIIF – PDF image files":
+      "إنتاج جميع التنسيقات الإلكترونية لملفات الصور JPEG – TIIF – PDF",
+    "Index, digitize, organize and encode files and documents.":
+      "فهرسة، رقمنة، تنظيم وترميز الملفات والوثائق.",
+    "Electronic copying and saving to network drives.":
+      "النسخ الإلكتروني والحفظ على محركات الشبكة.",
+    "Data entry and uploading of electronic files for archiving and document management systems.":
+      "إدخال البيانات وتحميل الملفات الإلكترونية لأنظمة الأرشفة وإدارة الوثائق.",
+    "Secure and confidential destruction of scanned documents.":
+      "التدمير الآمن والسري للوثائق الممسوحة ضوئيًا.",
+    "Building electronic storage systems, backup and restore files":
+      "بناء أنظمة التخزين الإلكترونية، النسخ الاحتياطي واستعادة الملفات",
+    "Companies, private organizations, government and non-profit organizations need to provide effective administrative support to offices to ensure the smooth functioning that achieves the organization's goals.":
+      "تحتاج الشركات، والمنظمات الخاصة، والحكومية، وغير الربحية إلى تقديم دعم إداري فعال للمكاتب لضمان سير العمل بسلاسة وتحقيق أهداف المنظمة.",
+    "We help you to:": "نساعدك على:",
+    "Archiving and documentation:": "الأرشفة والتوثيق:",
+    "Organize and arrange Office files and documents and index them in an organized and easy-to-access way.":
+      "تنظيم وترتيب ملفات ومستندات المكتب وفهرستها بطريقة منظمة وسهلة الوصول.",
+    "Creating an electronic archiving system to save and manage digital files.":
+      "إنشاء نظام أرشفة إلكتروني لحفظ وإدارة الملفات الرقمية.",
+    "Enhancing data security and maintaining confidentiality.":
+      "تعزيز أمن البيانات والحفاظ على السرية.",
+    "Development of procedures for the documentation of the organization":
+      "تطوير إجراءات توثيق المنظمة",
+    "Development of workflow for documents of the organization":
+      "تطوير سير العمل للوثائق في المنظمة",
+    "Corporate Communication Department:": "قسم الاتصالات المؤسسية:",
+    "Development of corporate communication procedures of the organization.":
+      "تطوير إجراءات الاتصال المؤسسي للمنظمة.",
+    "Create your own email and templates.":
+      "إنشاء بريد إلكتروني خاص بك ونماذج.",
+    "Building the corporate communication policy of the organization.":
+      "بناء سياسة الاتصال المؤسسي للمنظمة.",
+    "Develop a system of support tickets and receive customer requests.":
+      "تطوير نظام تذاكر الدعم وتلقي طلبات العملاء.",
+    "Formatting and scheduling:": "التنسيق والجدولة:",
+    "Development of procedures for managing the schedule of meetings and arranging meetings.":
+      "تطوير إجراءات إدارة جدول الاجتماعات وترتيب الاجتماعات.",
+    "Coordination systems between employees and departments to ensure the smooth flow of work.":
+      "أنظمة التنسيق بين الموظفين والأقسام لضمان تدفق العمل بسلاسة.",
+    "Systems follow-up tasks and projects and remind employees of deadlines.":
+      "أنظمة متابعة المهام والمشاريع وتذكير الموظفين بالمواعيد النهائية.",
+    "Continuous development and improvement:": "التطوير والتحسين المستمر:",
+    "Identify opportunities for improvement in administrative processes.":
+      "تحديد فرص التحسين في العمليات الإدارية.",
+    "Implementation of initiatives to simplify procedures and increase efficiency.":
+      "تنفيذ المبادرات لتبسيط الإجراءات وزيادة الكفاءة.",
+    "Continuous training and development of administrative staff.":
+      "التدريب والتطوير المستمر للموظفين الإداريين.",
+    "Developing practices that contribute to the success of the work.":
+      "تطوير الممارسات التي تساهم في نجاح العمل.",
+    "We provide many systems to manage office tasks:":
+      "نحن نقدم العديد من الأنظمة لإدارة مهام المكتب:",
+    "Task and schedule management tools-document and file management systems-electronic content management software-digital archiving tools for digitizing and saving paper files in an organized way-call and email tracking systems-CRM programs-automation of administrative processes and workflow programs for organizing and optimizing processes-electronic approval systems to speed up the progress of procedures.":
+      "أدوات إدارة المهام والجدولة-أنظمة إدارة الوثائق والملفات-برامج إدارة المحتوى الإلكتروني-أدوات الأرشفة الرقمية لتحويل الملفات الورقية إلى رقمية وحفظها بطريقة منظمة-أنظمة تتبع المكالمات والبريد الإلكتروني-برامج إدارة علاقات العملاء-أتمتة العمليات الإدارية وبرامج سير العمل لتنظيم وتحسين العمليات-أنظمة الموافقات الإلكترونية لتسريع تقدم الإجراءات.",
   },
 };
 
