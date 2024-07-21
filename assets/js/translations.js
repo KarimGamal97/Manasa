@@ -446,9 +446,118 @@ const translations = {
     "Drop Us a Line": "Drop Us a Line",
     "Your email address will not be published. Required fields are marked":
       "Your email address will not be published. Required fields are marked",
-    "": "",
-    "": "",
-    "": "",
+
+    "ECM content management system": "ECM content management system",
+    "The content management system (Enterprise Content Management - ECM) is a set of strategies and practices designed to organize and manage information in an organization mainly and is denoted by the ECM system":
+      "The content management system (Enterprise Content Management - ECM) is a set of strategies and practices designed to organize and manage information in an organization mainly and is denoted by the ECM system",
+    "The content management system includes the following main parts:":
+      "The content management system includes the following main parts:",
+    "Content creation:": "Content creation:",
+    "Provide the ability to create and edit digital content in multiple ways.":
+      "Provide the ability to create and edit digital content in multiple ways.",
+    "Provide templates and tools to facilitate the creation and formatting of content.":
+      "Provide templates and tools to facilitate the creation and formatting of content.",
+    "Content management:": "Content management:",
+    "Organize and save digital content in consistent structures.":
+      "Organize and save digital content in consistent structures.",
+    "Apply policies and controls for access and authorization of content.":
+      "Apply policies and controls for access and authorization of content.",
+    "Content distribution:": "Content distribution:",
+    "Making content available to authorized users through multiple channels.":
+      "Making content available to authorized users through multiple channels.",
+    "The possibility of participation and cooperation in the creation and updating of content.":
+      "The possibility of participation and cooperation in the creation and updating of content.",
+    "Preservation and archiving:": "Preservation and archiving:",
+    "Maintain digital records of the content and its history.":
+      "Maintain digital records of the content and its history.",
+    "Ensure compliance with compliance and regulatory requirements.":
+      "Ensure compliance with compliance and regulatory requirements.",
+    "Search and recovery:": "Search and recovery:",
+    "Provide smart search tools to find content quickly and easily.":
+      "Provide smart search tools to find content quickly and easily.",
+    "The possibility of retrieving content related to a specific context or task.":
+      "The possibility of retrieving content related to a specific context or task.",
+    "Connectivity and integration:": "Connectivity and integration:",
+    "Connecting various systems with the ECM system":
+      "Connecting various systems with the ECM system",
+    "Addition and development:": "Addition and development:",
+    "Building specialized parts to support the work of the organization":
+      "Building specialized parts to support the work of the organization",
+    "ECM systems help organizations improve the efficiency of operations, increase employee productivity, and ensure the safety of sensitive information. These systems have become a key element in the digital transformation of companies.":
+      "ECM systems help organizations improve the efficiency of operations, increase employee productivity, and ensure the safety of sensitive information. These systems have become a key element in the digital transformation of companies.",
+
+    "A Digital Asset Management System (Digital Asset Management - DAM) is a technological system used to manage and organize digital assets in organizations. The digital asset management system supports companies, brands, media and publishing entities, photo and video libraries, museums, archives, etc.":
+      "A Digital Asset Management System (Digital Asset Management - DAM) is a technological system used to manage and organize digital assets in organizations. The digital asset management system supports companies, brands, media and publishing entities, photo and video libraries, museums, archives, etc.",
+    "Digital assets include various types of digital files such as:":
+      "Digital assets include various types of digital files such as:",
+    "Photos and drawings:": "Photos and drawings:",
+    "Photographic images": "Photographic images",
+    "Drawings and designs": "Drawings and designs",
+    "Icons and logos": "Icons and logos",
+    "Video and Multimedia:": "Video and Multimedia:",
+    "Video clips": "Video clips",
+    "Voice recordings": "Voice recordings",
+    Animation: "Animation",
+    "Office files:": "Office files:",
+    "Text documents": "Text documents",
+    Presentations: "Presentations",
+    "Electronic spreadsheet files": "Electronic spreadsheet files",
+    "And other other digital files.": "And other other digital files.",
+    "DAM systems help organizations in:": "DAM systems help organizations in:",
+    "Organize and classify these assets effectively":
+      "Organize and classify these assets effectively",
+    "Securing and protecting digital assets":
+      "Securing and protecting digital assets",
+    "Easy access and quick retrieval of required assets":
+      "Easy access and quick retrieval of required assets",
+    "Manage the deployment and distribution of assets":
+      "Manage the deployment and distribution of assets",
+    "Promote collaboration and teamwork on digital assets":
+      "Promote collaboration and teamwork on digital assets",
+    "DAM systems thus contribute to increasing labor productivity and improving the efficiency of Digital Asset Management in organizations.":
+      "DAM systems thus contribute to increasing labor productivity and improving the efficiency of Digital Asset Management in organizations.",
+    "The Digital Asset Management System helps to:":
+      "The Digital Asset Management System helps to:",
+    "Collection of product, service and image information for companies-collection and management of media content for media organizations-collection and management of historical content for documents and libraries There are several key advantages that digital asset management (DAM) systems provide to organizations, the most important of which are":
+      "Collection of product, service and image information for companies-collection and management of media content for media organizations-collection and management of historical content for documents and libraries There are several key advantages that digital asset management (DAM) systems provide to organizations, the most important of which are",
+    "Improving digital asset management": "Improving digital asset management",
+    "Organize and classify assets in a systematic way":
+      "Organize and classify assets in a systematic way",
+    "Provide effective search and filtering means for quick access to assets":
+      "Provide effective search and filtering means for quick access to assets",
+    "Maintain backup copies and updated versions of assets":
+      "Maintain backup copies and updated versions of assets",
+    "Increase productivity and efficiency:":
+      "Increase productivity and efficiency:",
+    "Facilitate the reuse of assets instead of creating them from scratch":
+      "Facilitate the reuse of assets instead of creating them from scratch",
+    "Reduce the time and effort spent on Digital Asset Management":
+      "Reduce the time and effort spent on Digital Asset Management",
+    "Improve collaboration and teamwork processes on assets":
+      "Improve collaboration and teamwork processes on assets",
+    "Brand promotion and marketing:": "Brand promotion and marketing:",
+    "Ensure brand consistency and uniformity across all platforms":
+      "Ensure brand consistency and uniformity across all platforms",
+    "Facilitate the publication of marketing and promotional content quickly and easily":
+      "Facilitate the publication of marketing and promotional content quickly and easily",
+    "Improve the quality and effectiveness of marketing and advertising materials":
+      "Improve the quality and effectiveness of marketing and advertising materials",
+    "Reducing risks and costs:": "Reducing risks and costs:",
+    "Protect digital assets from loss or damage":
+      "Protect digital assets from loss or damage",
+    "Control over intellectual property rights and regulatory compliance":
+      "Control over intellectual property rights and regulatory compliance",
+    "Reduce the costs resulting from the re-creation of digital assets":
+      "Reduce the costs resulting from the re-creation of digital assets",
+    "Improved user experience:": "Improved user experience:",
+    "Provide an easy-to-use and efficient user interface":
+      "Provide an easy-to-use and efficient user interface",
+    "Enable users to find assets quickly and efficiently":
+      "Enable users to find assets quickly and efficiently",
+    "Promote cooperation and sharing in the use of digital assets":
+      "Promote cooperation and sharing in the use of digital assets",
+    "By implementing DAM systems, organizations are able to take advantage of these advantages and enhance the efficiency of digital asset management processes in general.":
+      "By implementing DAM systems, organizations are able to take advantage of these advantages and enhance the efficiency of digital asset management processes in general.",
     "": "",
     "": "",
     "": "",
@@ -880,6 +989,114 @@ const translations = {
     "Drop Us a Line": "اترك لنا رسالة",
     "Your email address will not be published. Required fields are marked":
       "لن يتم نشر عنوان بريدك الإلكتروني. الحقول المطلوبة محددة",
+    "ECM content management system": "نظام إدارة المحتوى ECM",
+    "The content management system (Enterprise Content Management - ECM) is a set of strategies and practices designed to organize and manage information in an organization mainly and is denoted by the ECM system":
+      "نظام إدارة المحتوى (إدارة محتوى المؤسسة - ECM) هو مجموعة من الاستراتيجيات والممارسات المصممة لتنظيم وإدارة المعلومات في المنظمة بشكل رئيسي ويشار إليه بنظام ECM",
+    "The content management system includes the following main parts:":
+      "يشمل نظام إدارة المحتوى الأجزاء الرئيسية التالية:",
+    "Content creation:": "إنشاء المحتوى:",
+    "Provide the ability to create and edit digital content in multiple ways.":
+      "توفير القدرة على إنشاء وتحرير المحتوى الرقمي بطرق متعددة.",
+    "Provide templates and tools to facilitate the creation and formatting of content.":
+      "توفير القوالب والأدوات لتسهيل إنشاء وتنسيق المحتوى.",
+    "Content management:": "إدارة المحتوى:",
+    "Organize and save digital content in consistent structures.":
+      "تنظيم وحفظ المحتوى الرقمي في هياكل متناسقة.",
+    "Apply policies and controls for access and authorization of content.":
+      "تطبيق السياسات والضوابط للوصول إلى المحتوى والمصادقة عليه.",
+    "Content distribution:": "توزيع المحتوى:",
+    "Making content available to authorized users through multiple channels.":
+      "جعل المحتوى متاحًا للمستخدمين المخولين من خلال قنوات متعددة.",
+    "The possibility of participation and cooperation in the creation and updating of content.":
+      "إمكانية المشاركة والتعاون في إنشاء وتحديث المحتوى.",
+    "Preservation and archiving:": "الحفظ والأرشفة:",
+    "Maintain digital records of the content and its history.":
+      "الحفاظ على السجلات الرقمية للمحتوى وتاريخه.",
+    "Ensure compliance with compliance and regulatory requirements.":
+      "ضمان الامتثال لمتطلبات الامتثال والتنظيم.",
+    "Search and recovery:": "البحث والاسترجاع:",
+    "Provide smart search tools to find content quickly and easily.":
+      "توفير أدوات بحث ذكية للعثور على المحتوى بسرعة وسهولة.",
+    "The possibility of retrieving content related to a specific context or task.":
+      "إمكانية استرجاع المحتوى المتعلق بسياق أو مهمة محددة.",
+    "Connectivity and integration:": "الاتصال والتكامل:",
+    "Connecting various systems with the ECM system":
+      "ربط الأنظمة المختلفة بنظام ECM",
+    "Addition and development:": "الإضافة والتطوير:",
+    "Building specialized parts to support the work of the organization":
+      "بناء أجزاء متخصصة لدعم عمل المنظمة",
+    "ECM systems help organizations improve the efficiency of operations, increase employee productivity, and ensure the safety of sensitive information. These systems have become a key element in the digital transformation of companies.":
+      "تساعد أنظمة ECM المنظمات على تحسين كفاءة العمليات، وزيادة إنتاجية الموظفين، وضمان سلامة المعلومات الحساسة. أصبحت هذه الأنظمة عنصرًا رئيسيًا في التحول الرقمي للشركات.",
+    "A Digital Asset Management System (Digital Asset Management - DAM) is a technological system used to manage and organize digital assets in organizations. The digital asset management system supports companies, brands, media and publishing entities, photo and video libraries, museums, archives, etc.":
+      "نظام إدارة الأصول الرقمية (إدارة الأصول الرقمية - DAM) هو نظام تقني يستخدم لإدارة وتنظيم الأصول الرقمية في المؤسسات. يدعم نظام إدارة الأصول الرقمية الشركات، العلامات التجارية، الكيانات الإعلامية والنشر، مكتبات الصور والفيديو، المتاحف، الأرشيف، إلخ.",
+    "Digital assets include various types of digital files such as:":
+      "تشمل الأصول الرقمية أنواعًا مختلفة من الملفات الرقمية مثل:",
+    "Photos and drawings:": "الصور والرسومات:",
+    "Photographic images": "الصور الفوتوغرافية",
+    "Drawings and designs": "الرسومات والتصاميم",
+    "Icons and logos": "الأيقونات والشعارات",
+    "Video and Multimedia:": "الفيديو والوسائط المتعددة:",
+    "Video clips": "مقاطع الفيديو",
+    "Voice recordings": "التسجيلات الصوتية",
+    Animation: "الرسوم المتحركة",
+    "Office files:": "ملفات المكتب:",
+    "Text documents": "المستندات النصية",
+    Presentations: "العروض التقديمية",
+    "Electronic spreadsheet files": "ملفات الجداول الإلكترونية",
+    "And other other digital files.": "وغيرها من الملفات الرقمية.",
+    "DAM systems help organizations in:": "تساعد أنظمة DAM المؤسسات في:",
+    "Organize and classify these assets effectively":
+      "تنظيم وتصنيف هذه الأصول بفعالية",
+    "Securing and protecting digital assets": "تأمين وحماية الأصول الرقمية",
+    "Easy access and quick retrieval of required assets":
+      "الوصول السهل والاسترجاع السريع للأصول المطلوبة",
+    "Manage the deployment and distribution of assets":
+      "إدارة نشر وتوزيع الأصول",
+    "Promote collaboration and teamwork on digital assets":
+      "تعزيز التعاون والعمل الجماعي على الأصول الرقمية",
+    "DAM systems thus contribute to increasing labor productivity and improving the efficiency of Digital Asset Management in organizations.":
+      "تساهم أنظمة DAM بذلك في زيادة إنتاجية العمل وتحسين كفاءة إدارة الأصول الرقمية في المؤسسات.",
+    "The Digital Asset Management System helps to:":
+      "يساعد نظام إدارة الأصول الرقمية في:",
+    "Collection of product, service and image information for companies-collection and management of media content for media organizations-collection and management of historical content for documents and libraries There are several key advantages that digital asset management (DAM) systems provide to organizations, the most important of which are":
+      "جمع معلومات المنتجات والخدمات والصور للشركات-جمع وإدارة المحتوى الإعلامي للمنظمات الإعلامية-جمع وإدارة المحتوى التاريخي للوثائق والمكتبات. هناك عدة مزايا رئيسية تقدمها أنظمة إدارة الأصول الرقمية (DAM) للمؤسسات، من أهمها",
+    "Improving digital asset management": "تحسين إدارة الأصول الرقمية",
+    "Organize and classify assets in a systematic way":
+      "تنظيم وتصنيف الأصول بطريقة منهجية",
+    "Provide effective search and filtering means for quick access to assets":
+      "توفير وسائل بحث وتصفية فعالة للوصول السريع إلى الأصول",
+    "Maintain backup copies and updated versions of assets":
+      "الحفاظ على نسخ احتياطية وإصدارات محدثة من الأصول",
+    "Increase productivity and efficiency:": "زيادة الإنتاجية والكفاءة:",
+    "Facilitate the reuse of assets instead of creating them from scratch":
+      "تسهيل إعادة استخدام الأصول بدلاً من إنشائها من الصفر",
+    "Reduce the time and effort spent on Digital Asset Management":
+      "تقليل الوقت والجهد المبذولين في إدارة الأصول الرقمية",
+    "Improve collaboration and teamwork processes on assets":
+      "تحسين عمليات التعاون والعمل الجماعي على الأصول",
+    "Brand promotion and marketing:": "ترويج العلامة التجارية والتسويق:",
+    "Ensure brand consistency and uniformity across all platforms":
+      "ضمان اتساق العلامة التجارية وتوحيدها عبر جميع المنصات",
+    "Facilitate the publication of marketing and promotional content quickly and easily":
+      "تسهيل نشر المحتوى التسويقي والترويجي بسرعة وسهولة",
+    "Improve the quality and effectiveness of marketing and advertising materials":
+      "تحسين جودة وفعالية المواد التسويقية والإعلانية",
+    "Reducing risks and costs:": "تقليل المخاطر والتكاليف:",
+    "Protect digital assets from loss or damage":
+      "حماية الأصول الرقمية من الفقدان أو التلف",
+    "Control over intellectual property rights and regulatory compliance":
+      "التحكم في حقوق الملكية الفكرية والامتثال التنظيمي",
+    "Reduce the costs resulting from the re-creation of digital assets":
+      "تقليل التكاليف الناتجة عن إعادة إنشاء الأصول الرقمية",
+    "Improved user experience:": "تحسين تجربة المستخدم:",
+    "Provide an easy-to-use and efficient user interface":
+      "توفير واجهة مستخدم سهلة الاستخدام وفعالة",
+    "Enable users to find assets quickly and efficiently":
+      "تمكين المستخدمين من العثور على الأصول بسرعة وكفاءة",
+    "Promote cooperation and sharing in the use of digital assets":
+      "تعزيز التعاون والمشاركة في استخدام الأصول الرقمية",
+    "By implementing DAM systems, organizations are able to take advantage of these advantages and enhance the efficiency of digital asset management processes in general.":
+      "من خلال تنفيذ أنظمة DAM، تكون المؤسسات قادرة على الاستفادة من هذه المزايا وتعزيز كفاءة عمليات إدارة الأصول الرقمية بشكل عام.",
   },
 };
 
