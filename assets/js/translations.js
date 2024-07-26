@@ -599,11 +599,157 @@ const translations = {
       "Integrate data and synthesize knowledge to make more effective decisions",
     "We help organizations implement effective data management so that they can make the most of their data and achieve their operational and strategic goals.":
       "We help organizations implement effective data management so that they can make the most of their data and achieve their operational and strategic goals.",
-    "": "",
-    "": "",
-    "": "",
+
+    "Electronic archiving systems": "Electronic archiving systems",
+    "Electronic archiving contributes to freeing your office from the accumulation of papers, correspondence and transactions. By providing integrated solutions for organizing, indexing and archiving your documents and daily transactions, from contracts, invoices, reports and government transactions, all of them will be organized, indexed and at your fingertips with just a touch of a button, and you can order and search for them in just a few seconds at any time without putting more effort and effort into manual search and extracting paper files from traditional shelves.":
+      "Electronic archiving contributes to freeing your office from the accumulation of papers, correspondence and transactions. By providing integrated solutions for organizing, indexing and archiving your documents and daily transactions, from contracts, invoices, reports and government transactions, all of them will be organized, indexed and at your fingertips with just a touch of a button, and you can order and search for them in just a few seconds at any time without putting more effort and effort into manual search and extracting paper files from traditional shelves.",
+    "The digital platform introduces the document container system for document management and electronic archiving; this system has received great attention from customers for its efficiency in managing and archiving documents and for ease of handling by ordinary users.":
+      "The digital platform introduces the document container system for document management and electronic archiving; this system has received great attention from customers for its efficiency in managing and archiving documents and for ease of handling by ordinary users.",
+    "Our systems are characterized by their ability to:":
+      "Our systems are characterized by their ability to:",
+    "Data capture:": "Data capture:",
+    "Documents and files are scanned and uploaded to the electronic system with centralized control and shared across the organization's units.":
+      "Documents and files are scanned and uploaded to the electronic system with centralized control and shared across the organization's units.",
+    "Document strategy:": "Document strategy:",
+    "Full support for the archival Tree of the organization's files and alignment with the strategy of files such as financial, procurement, personnel, administrative and medical files.":
+      "Full support for the archival Tree of the organization's files and alignment with the strategy of files such as financial, procurement, personnel, administrative and medical files.",
+    "File sharing:": "File sharing:",
+    "High possibility of exchanging files within the organization according to the powers available to each department without overlapping work.":
+      "High possibility of exchanging files within the organization according to the powers available to each department without overlapping work.",
+    "Support for cloud storage – cloud.": "Support for cloud storage – cloud.",
+    "Secure login and ease of use.": "Secure login and ease of use.",
+    "Work from any branch in any region and from the field as if you are in one office.":
+      "Work from any branch in any region and from the field as if you are in one office.",
+    "Synchronize files across branches.": "Synchronize files across branches.",
+    "Our systems are characterized by their ability to:":
+      "Our systems are characterized by their ability to:",
+    "Easy search and retrieval:": "Easy search and retrieval:",
+    "A search engine for quick access to the required files, full support for printers, scanners, barcodes.":
+      "A search engine for quick access to the required files, full support for printers, scanners, barcodes.",
+    "Cloud support:": "Cloud support:",
+    "Support for cloud drives and file synchronization via the electronic system.":
+      "Support for cloud drives and file synchronization via the electronic system.",
+    "Multiple powers:": "Multiple powers:",
+    "Determine the powers of employees according to the tasks assigned to them, and according to the departments and documents that are under their authority.":
+      "Determine the powers of employees according to the tasks assigned to them, and according to the departments and documents that are under their authority.",
+    "Work volume:": "Work volume:",
+    "It makes it easy for managers to distribute daily work task files to employees, share them from anywhere, exchange documents between departments and branches, edit and save them directly such as word and Excel files.":
+      "It makes it easy for managers to distribute daily work task files to employees, share them from anywhere, exchange documents between departments and branches, edit and save them directly such as word and Excel files.",
+    "Archive folders:": "Archive folders:",
+    "You'll find an electronic copy at your fingertips of any saved file or transaction, effortlessly. Archiving e-mail, faxes, files, documents and also:":
+      "You'll find an electronic copy at your fingertips of any saved file or transaction, effortlessly. Archiving e-mail, faxes, files, documents and also:",
+    "Invoices/reports/contracts/extracts/circulars/statements/personnel files/ patient files/customer files/Project reports/ project files/ waybills / case and insurance files.":
+      "Invoices/reports/contracts/extracts/circulars/statements/personnel files/ patient files/customer files/Project reports/ project files/ waybills / case and insurance files.",
+    "Our systems are characterized by their ability to:":
+      "Our systems are characterized by their ability to:",
+    "Scanning documents:": "Scanning documents:",
+    "Enable employees to scan files and deposit them to the Cloud Archive and enable employees in record time to work on them and share them.":
+      "Enable employees to scan files and deposit them to the Cloud Archive and enable employees in record time to work on them and share them.",
+    "Print copies from anywhere:": "Print copies from anywhere:",
+    "It is very easy to print any required file in record time and from any branch connected to the electronic cloud.":
+      "It is very easy to print any required file in record time and from any branch connected to the electronic cloud.",
+    "Email support:": "Email support:",
+    "Send documents directly from the system via e-mail.":
+      "Send documents directly from the system via e-mail.",
+    "Customization according to customer needs:":
+      "Customization according to customer needs:",
+    "We provide customization and programming services according to customer requirements.":
+      "We provide customization and programming services according to customer requirements.",
+    "Backup backup:": "Backup backup:",
+    "The ability to make automatic backup of electronic archiving units":
+      "The ability to make automatic backup of electronic archiving units",
+    "Image of interfaces of electronic systems for document management and archiving":
+      "Image of interfaces of electronic systems for document management and archiving",
+
+    "Resource Management ERP-CRM": "Resource Management ERP-CRM",
+    "We understand the needs of customers in order to improve the management of their business and control its course in order to ensure the quality of work, high productivity and accuracy of transactions.":
+      "We understand the needs of customers in order to improve the management of their business and control its course in order to ensure the quality of work, high productivity and accuracy of transactions.",
+    "With the advancement of information technology, it has become possible to subject administrative and financial works to electronic control.":
+      "With the advancement of information technology, it has become possible to subject administrative and financial works to electronic control.",
+    "Financial transactions and purchases":
+      "Financial transactions and purchases",
+    "Human Resources Management and employee salaries":
+      "Human Resources Management and employee salaries",
+    "Project management": "Project management",
+    "Warehouse and supply chain control": "Warehouse and supply chain control",
+    "Sales processes and points of sale": "Sales processes and points of sale",
+    "Property management": "Property management",
+    "Facilities management, maintenance and operation projects":
+      "Facilities management, maintenance and operation projects",
+    "Medical management": "Medical management",
+    "Procedure management": "Procedure management",
+    "Manufacturing management": "Manufacturing management",
+    "Account management": "Account management",
+    "The digital IT platform offers these systems in the kingdom of Saudi Arabia to enable customers to take control of their business.":
+      "The digital IT platform offers these systems in the kingdom of Saudi Arabia to enable customers to take control of their business.",
+    "Data capture:": "Data capture:",
+    "Documents and files are scanned and uploaded to the electronic system with centralized control and shared across the organization's units.":
+      "Documents and files are scanned and uploaded to the electronic system with centralized control and shared across the organization's units.",
+    "We provide electronic billing systems approved by the Zakat, tax and Customs Authority for our customers in the kingdom of Saudi Arabia":
+      "We provide electronic billing systems approved by the Zakat, tax and Customs Authority for our customers in the kingdom of Saudi Arabia",
+    "We are proud of our partnership and our accreditation as providers of electronic billing systems with Zakat, tax and Customs Authority":
+      "We are proud of our partnership and our accreditation as providers of electronic billing systems with Zakat, tax and Customs Authority",
+    "We exceed the expectations of many investigators about our systems and services, we are able to:":
+      "We exceed the expectations of many investigators about our systems and services, we are able to:",
+    "Designing, programming and publishing mobile applications":
+      "Designing, programming and publishing mobile applications",
+    "Designing, programming and managing websites":
+      "Designing, programming and managing websites",
+    "Design and programming of electronic stores":
+      "Design and programming of electronic stores",
+    "Systems Analysis and Project study": "Systems Analysis and Project study",
+    "Providing maintenance services for IT systems":
+      "Providing maintenance services for IT systems",
+    "Operation and management of IT departments":
+      "Operation and management of IT departments",
+
+    "Knowledge management and education": "Knowledge management and education",
+    "Knowledge is the most important fuel in the Twenty-First Century for modern organizations and companies to support the transformation of the knowledge society through the construction, formation and management of knowledge within companies.":
+      "Knowledge is the most important fuel in the Twenty-First Century for modern organizations and companies to support the transformation of the knowledge society through the construction, formation and management of knowledge within companies.",
+    "We know that knowledge grows and every organization has specialized knowledge so we help to continue the growth and exchange of this knowledge in the organization.":
+      "We know that knowledge grows and every organization has specialized knowledge so we help to continue the growth and exchange of this knowledge in the organization.",
+    "To make it easy for every employee to find the necessary information, data and evidence to practice his work efficiently and productively.":
+      "To make it easy for every employee to find the necessary information, data and evidence to practice his work efficiently and productively.",
+    "All sectors government, health, finance, insurance and industrial sectors have the knowledge content they need to provide to their employees to increase production and to benefit from experts within these organizations.":
+      "All sectors government, health, finance, insurance and industrial sectors have the knowledge content they need to provide to their employees to increase production and to benefit from experts within these organizations.",
+    "Therefore, we support these companies to provide appropriate technical solutions to contain and support knowledge and facilitate its collection, organization and sharing between the members of the organization and the company and provide the necessary systems that facilitate employees and experts alike to communicate, exchange and share knowledge and support education and training based on electronic systems.":
+      "Therefore, we support these companies to provide appropriate technical solutions to contain and support knowledge and facilitate its collection, organization and sharing between the members of the organization and the company and provide the necessary systems that facilitate employees and experts alike to communicate, exchange and share knowledge and support education and training based on electronic systems.",
+    "Benefits of knowledge management solutions":
+      "Benefits of knowledge management solutions",
+    "The collection of knowledge content and experience accumulated within the organization in advanced electronic vessels :":
+      "The collection of knowledge content and experience accumulated within the organization in advanced electronic vessels :",
+    "Provides electronic storage space for storing the knowledge necessary for the work of the organization from directories, indexes and educational content":
+      "Provides electronic storage space for storing the knowledge necessary for the work of the organization from directories, indexes and educational content",
+    "Support training and further learning.":
+      "Support training and further learning.",
+    "Facilitate the search for professional information and find the desired in record time.":
+      "Facilitate the search for professional information and find the desired in record time.",
+    "Knowledge exchange and sharing between employees.":
+      "Knowledge exchange and sharing between employees.",
+    "Manage projects with advanced tools.":
+      "Manage projects with advanced tools.",
+    "Provide an advanced learning environment.":
+      "Provide an advanced learning environment.",
+    "We provide professional knowledge systems and knowledge content to develop the performance of employees in government sectors and companies:":
+      "We provide professional knowledge systems and knowledge content to develop the performance of employees in government sectors and companies:",
+    "Enterprise Resource Planning Department":
+      "Enterprise Resource Planning Department",
+    "Information security": "Information security",
+    "Dealing with applications and systems in work environments":
+      "Dealing with applications and systems in work environments",
+    "Occupational Safety": "Occupational Safety",
+    "We develop professional knowledge content according to customer requirements, and also provide :":
+      "We develop professional knowledge content according to customer requirements, and also provide :",
+    "DAM digital property management systems":
+      "DAM digital property management systems",
+    "DRM digital warehouse systems": "DRM digital warehouse systems",
+    "Digital library systems": "Digital library systems",
+    "Electronic testing systems": "Electronic testing systems",
+    "Automated debugging systems for tests":
+      "Automated debugging systems for tests",
     "": "",
   },
+  "": "",
   ar: {
     Home: "الصفحة الرئيسية",
     About: "عن المؤسسة",
@@ -1176,6 +1322,141 @@ const translations = {
       "دمج البيانات وتوليف المعرفة لاتخاذ قرارات أكثر فعالية",
     "We help organizations implement effective data management so that they can make the most of their data and achieve their operational and strategic goals.":
       "نساعد المنظمات على تنفيذ إدارة فعالة للبيانات حتى يتمكنوا من تحقيق أقصى استفادة من بياناتهم وتحقيق أهدافهم التشغيلية والاستراتيجية.",
+    "Electronic archiving systems": "أنظمة الأرشفة الإلكترونية",
+    "Electronic archiving contributes to freeing your office from the accumulation of papers, correspondence and transactions. By providing integrated solutions for organizing, indexing and archiving your documents and daily transactions, from contracts, invoices, reports and government transactions, all of them will be organized, indexed and at your fingertips with just a touch of a button, and you can order and search for them in just a few seconds at any time without putting more effort and effort into manual search and extracting paper files from traditional shelves.":
+      "تساهم الأرشفة الإلكترونية في تحرير مكتبك من تراكم الأوراق والمراسلات والمعاملات. من خلال توفير حلول متكاملة لتنظيم وفهرسة وأرشفة وثائقك ومعاملاتك اليومية، من عقود وفواتير وتقارير ومعاملات حكومية، سيتم تنظيمها وفهرستها ووضعها في متناول يدك بضغطة زر، ويمكنك طلبها والبحث عنها في بضع ثوانٍ في أي وقت دون بذل جهد إضافي في البحث اليدوي واستخراج الملفات الورقية من الرفوف التقليدية.",
+    "The digital platform introduces the document container system for document management and electronic archiving; this system has received great attention from customers for its efficiency in managing and archiving documents and for ease of handling by ordinary users.":
+      "تقدم المنصة الرقمية نظام حاوية الوثائق لإدارة الوثائق والأرشفة الإلكترونية؛ لقد حظي هذا النظام باهتمام كبير من العملاء لكفاءته في إدارة وأرشفة الوثائق وسهولة التعامل معه من قبل المستخدمين العاديين.",
+    "Our systems are characterized by their ability to:":
+      "تتميز أنظمتنا بقدرتها على:",
+    "Data capture:": "التقاط البيانات:",
+    "Documents and files are scanned and uploaded to the electronic system with centralized control and shared across the organization's units.":
+      "يتم مسح الوثائق والملفات وتحميلها إلى النظام الإلكتروني مع التحكم المركزي ومشاركتها عبر وحدات المنظمة.",
+    "Document strategy:": "استراتيجية الوثائق:",
+    "Full support for the archival Tree of the organization's files and alignment with the strategy of files such as financial, procurement, personnel, administrative and medical files.":
+      "دعم كامل لشجرة الأرشيف لملفات المنظمة ومواءمة مع استراتيجية الملفات مثل الملفات المالية والمشتريات والموظفين والإدارية والطبية.",
+    "File sharing:": "مشاركة الملفات:",
+    "High possibility of exchanging files within the organization according to the powers available to each department without overlapping work.":
+      "إمكانية عالية لتبادل الملفات داخل المنظمة وفقًا للصلاحيات المتاحة لكل قسم دون تداخل في العمل.",
+    "Support for cloud storage – cloud.": "دعم التخزين السحابي – السحابة.",
+    "Secure login and ease of use.": "تسجيل دخول آمن وسهولة في الاستخدام.",
+    "Work from any branch in any region and from the field as if you are in one office.":
+      "العمل من أي فرع في أي منطقة ومن الميدان كما لو كنت في مكتب واحد.",
+    "Synchronize files across branches.": "مزامنة الملفات عبر الفروع.",
+    "Easy search and retrieval:": "البحث والاسترجاع السهل:",
+    "A search engine for quick access to the required files, full support for printers, scanners, barcodes.":
+      "محرك بحث للوصول السريع إلى الملفات المطلوبة، ودعم كامل للطابعات، والماسحات الضوئية، والرموز الشريطية.",
+    "Cloud support:": "دعم السحابة:",
+    "Support for cloud drives and file synchronization via the electronic system.":
+      "دعم محركات السحابة ومزامنة الملفات عبر النظام الإلكتروني.",
+    "Multiple powers:": "صلاحيات متعددة:",
+    "Determine the powers of employees according to the tasks assigned to them, and according to the departments and documents that are under their authority.":
+      "تحديد صلاحيات الموظفين وفقًا للمهام المسندة إليهم، ووفقًا للأقسام والوثائق التي تقع تحت سلطتهم.",
+    "Work volume:": "حجم العمل:",
+    "It makes it easy for managers to distribute daily work task files to employees, share them from anywhere, exchange documents between departments and branches, edit and save them directly such as word and Excel files.":
+      "يجعل من السهل على المديرين توزيع ملفات مهام العمل اليومية على الموظفين، ومشاركتها من أي مكان، وتبادل الوثائق بين الأقسام والفروع، وتحريرها وحفظها مباشرة مثل ملفات وورد وإكسل.",
+    "Archive folders:": "مجلدات الأرشيف:",
+    "You'll find an electronic copy at your fingertips of any saved file or transaction, effortlessly. Archiving e-mail, faxes, files, documents and also:":
+      "ستجد نسخة إلكترونية في متناول يدك لأي ملف محفوظ أو معاملة، دون جهد. أرشفة البريد الإلكتروني، الفاكسات، الملفات، الوثائق وأيضًا:",
+    "Invoices/reports/contracts/extracts/circulars/statements/personnel files/ patient files/customer files/Project reports/ project files/ waybills / case and insurance files.":
+      "الفواتير/التقارير/العقود/المستخلصات/التعاميم/البيانات/ملفات الموظفين/ملفات المرضى/ملفات العملاء/تقارير المشاريع/ملفات المشاريع/أذونات الشحن/ملفات القضايا والتأمين.",
+    "Scanning documents:": "مسح الوثائق:",
+    "Enable employees to scan files and deposit them to the Cloud Archive and enable employees in record time to work on them and share them.":
+      "تمكين الموظفين من مسح الملفات وإيداعها في الأرشيف السحابي وتمكين الموظفين في وقت قياسي من العمل عليها ومشاركتها.",
+    "Print copies from anywhere:": "طباعة النسخ من أي مكان:",
+    "It is very easy to print any required file in record time and from any branch connected to the electronic cloud.":
+      "من السهل جدًا طباعة أي ملف مطلوب في وقت قياسي ومن أي فرع متصل بالسحابة الإلكترونية.",
+    "Email support:": "دعم البريد الإلكتروني:",
+    "Send documents directly from the system via e-mail.":
+      "إرسال الوثائق مباشرة من النظام عبر البريد الإلكتروني.",
+    "Customization according to customer needs:":
+      "التخصيص وفقًا لاحتياجات العميل:",
+    "We provide customization and programming services according to customer requirements.":
+      "نقدم خدمات التخصيص والبرمجة وفقًا لمتطلبات العميل.",
+    "Backup backup:": "النسخ الاحتياطي:",
+    "The ability to make automatic backup of electronic archiving units":
+      "القدرة على إجراء نسخ احتياطي تلقائي لوحدات الأرشفة الإلكترونية",
+    "Image of interfaces of electronic systems for document management and archiving":
+      "صورة لواجهات الأنظمة الإلكترونية لإدارة الوثائق والأرشفة",
+    "Resource Management ERP-CRM": "إدارة الموارد ERP-CRM",
+    "We understand the needs of customers in order to improve the management of their business and control its course in order to ensure the quality of work, high productivity and accuracy of transactions.":
+      "نفهم احتياجات العملاء من أجل تحسين إدارة أعمالهم والتحكم في مسارها لضمان جودة العمل، والإنتاجية العالية، ودقة المعاملات.",
+    "With the advancement of information technology, it has become possible to subject administrative and financial works to electronic control.":
+      "مع تقدم تكنولوجيا المعلومات، أصبح من الممكن إخضاع الأعمال الإدارية والمالية للتحكم الإلكتروني.",
+    "Financial transactions and purchases": "المعاملات المالية والمشتريات",
+    "Human Resources Management and employee salaries":
+      "إدارة الموارد البشرية ورواتب الموظفين",
+    "Project management": "إدارة المشاريع",
+    "Warehouse and supply chain control": "التحكم في المخزون وسلسلة التوريد",
+    "Sales processes and points of sale": "عمليات البيع ونقاط البيع",
+    "Property management": "إدارة الممتلكات",
+    "Facilities management, maintenance and operation projects":
+      "إدارة المرافق، مشاريع الصيانة والتشغيل",
+    "Medical management": "الإدارة الطبية",
+    "Procedure management": "إدارة الإجراءات",
+    "Manufacturing management": "إدارة التصنيع",
+    "Account management": "إدارة الحسابات",
+    "The digital IT platform offers these systems in the kingdom of Saudi Arabia to enable customers to take control of their business.":
+      "توفر المنصة الرقمية لتكنولوجيا المعلومات هذه الأنظمة في المملكة العربية السعودية لتمكين العملاء من التحكم في أعمالهم.",
+    "Data capture:": "التقاط البيانات:",
+    "Documents and files are scanned and uploaded to the electronic system with centralized control and shared across the organization's units.":
+      "يتم مسح الوثائق والملفات وتحميلها إلى النظام الإلكتروني مع التحكم المركزي ومشاركتها عبر وحدات المنظمة.",
+    "We provide electronic billing systems approved by the Zakat, tax and Customs Authority for our customers in the kingdom of Saudi Arabia":
+      "نوفر أنظمة الفوترة الإلكترونية المعتمدة من هيئة الزكاة والضريبة والجمارك لعملائنا في المملكة العربية السعودية",
+    "We are proud of our partnership and our accreditation as providers of electronic billing systems with Zakat, tax and Customs Authority":
+      "نفخر بشراكتنا واعتمادنا كمقدمي أنظمة الفوترة الإلكترونية مع هيئة الزكاة والضريبة والجمارك",
+    "We exceed the expectations of many investigators about our systems and services, we are able to:":
+      "نتجاوز توقعات العديد من المحققين حول أنظمتنا وخدماتنا، نحن قادرون على:",
+    "Designing, programming and publishing mobile applications":
+      "تصميم وبرمجة ونشر تطبيقات الهواتف المحمولة",
+    "Designing, programming and managing websites":
+      "تصميم وبرمجة وإدارة المواقع الإلكترونية",
+    "Design and programming of electronic stores":
+      "تصميم وبرمجة المتاجر الإلكترونية",
+    "Systems Analysis and Project study": "تحليل الأنظمة ودراسة المشاريع",
+    "Providing maintenance services for IT systems":
+      "توفير خدمات الصيانة لأنظمة تكنولوجيا المعلومات",
+    "Operation and management of IT departments":
+      "تشغيل وإدارة أقسام تكنولوجيا المعلومات",
+    "Knowledge management and education": "إدارة المعرفة والتعليم",
+    "Knowledge is the most important fuel in the Twenty-First Century for modern organizations and companies to support the transformation of the knowledge society through the construction, formation and management of knowledge within companies.":
+      "المعرفة هي أهم وقود في القرن الحادي والعشرين للمنظمات والشركات الحديثة لدعم تحول مجتمع المعرفة من خلال بناء وتشكيل وإدارة المعرفة داخل الشركات.",
+    "We know that knowledge grows and every organization has specialized knowledge so we help to continue the growth and exchange of this knowledge in the organization.":
+      "نعلم أن المعرفة تنمو وكل منظمة لديها معرفة متخصصة لذلك نساعد في استمرار نمو وتبادل هذه المعرفة في المنظمة.",
+    "To make it easy for every employee to find the necessary information, data and evidence to practice his work efficiently and productively.":
+      "لجعل من السهل على كل موظف العثور على المعلومات والبيانات والأدلة اللازمة لممارسة عمله بكفاءة وإنتاجية.",
+    "All sectors government, health, finance, insurance and industrial sectors have the knowledge content they need to provide to their employees to increase production and to benefit from experts within these organizations.":
+      "جميع القطاعات الحكومية والصحية والمالية والتأمينية والصناعية لديها المحتوى المعرفي الذي تحتاجه لتقديمه لموظفيها لزيادة الإنتاجية والاستفادة من الخبراء داخل هذه المنظمات.",
+    "Therefore, we support these companies to provide appropriate technical solutions to contain and support knowledge and facilitate its collection, organization and sharing between the members of the organization and the company and provide the necessary systems that facilitate employees and experts alike to communicate, exchange and share knowledge and support education and training based on electronic systems.":
+      "لذلك، ندعم هذه الشركات لتقديم الحلول التقنية المناسبة لاحتواء ودعم المعرفة وتسهيل جمعها وتنظيمها ومشاركتها بين أعضاء المنظمة والشركة وتقديم الأنظمة اللازمة التي تسهل على الموظفين والخبراء على حد سواء التواصل وتبادل ومشاركة المعرفة ودعم التعليم والتدريب القائم على الأنظمة الإلكترونية.",
+    "Benefits of knowledge management solutions": "فوائد حلول إدارة المعرفة",
+    "The collection of knowledge content and experience accumulated within the organization in advanced electronic vessels :":
+      "جمع محتوى المعرفة والخبرة المتراكمة داخل المنظمة في أوعية إلكترونية متقدمة:",
+    "Provides electronic storage space for storing the knowledge necessary for the work of the organization from directories, indexes and educational content":
+      "يوفر مساحة تخزين إلكترونية لتخزين المعرفة اللازمة لعمل المنظمة من الأدلة والفهارس والمحتوى التعليمي",
+    "Support training and further learning.": "دعم التدريب والتعليم المستمر.",
+    "Facilitate the search for professional information and find the desired in record time.":
+      "تسهيل البحث عن المعلومات المهنية والعثور على المطلوب في وقت قياسي.",
+    "Knowledge exchange and sharing between employees.":
+      "تبادل ومشاركة المعرفة بين الموظفين.",
+    "Manage projects with advanced tools.": "إدارة المشاريع بأدوات متقدمة.",
+    "Provide an advanced learning environment.": "توفير بيئة تعلم متقدمة.",
+    "We provide professional knowledge systems and knowledge content to develop the performance of employees in government sectors and companies:":
+      "نقدم أنظمة المعرفة المهنية ومحتوى المعرفة لتطوير أداء الموظفين في القطاعات الحكومية والشركات:",
+    "Enterprise Resource Planning Department": "قسم تخطيط موارد المؤسسات",
+    "Information security": "أمن المعلومات",
+    "Dealing with applications and systems in work environments":
+      "التعامل مع التطبيقات والأنظمة في بيئات العمل",
+    "Occupational Safety": "السلامة المهنية",
+    "We develop professional knowledge content according to customer requirements, and also provide :":
+      "نطور محتوى المعرفة المهنية وفقًا لمتطلبات العملاء، ونقدم أيضًا:",
+    "DAM digital property management systems":
+      "أنظمة إدارة الممتلكات الرقمية DAM",
+    "DRM digital warehouse systems": "أنظمة المخازن الرقمية DRM",
+    "Digital library systems": "أنظمة المكتبات الرقمية",
+    "Electronic testing systems": "أنظمة الاختبارات الإلكترونية",
+    "Automated debugging systems for tests":
+      "أنظمة تصحيح الأخطاء الآلية للاختبارات",
   },
 };
 

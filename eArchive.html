@@ -58,71 +58,126 @@
               <nav class="nav-main-menu d-none d-xl-block">
                 <ul class="main-menu">
                   <li>
-                    <a class="active" href="index.html">Home</a>
+                    <a class="active" href="index.html" data-i18n="Home"
+                      >Home</a
+                    >
                   </li>
                   <li class="has-children">
-                    <a href="about.html">About Us</a>
+                    <a href="about.html" data-i18n="About">About Us</a>
                     <ul class="sub-menu">
-                      <li><a href="about.html">Digital Platform</a></li>
-                      <li><a href="clients.html">Clients</a></li>
+                      <li>
+                        <a href="about.html" data-i18n="Digital Platform"
+                          >Digital Platform</a
+                        >
+                      </li>
+                      <li>
+                        <a href="clients.html" data-i18n="Clients">Clients</a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="docs-mang.html">Services</a>
+                    <a href="docs-mang.html" data-i18n="Services">Services</a>
                     <ul class="sub-menu">
                       <li>
-                        <a href="docs-mang.html"
+                        <a
+                          href="docs-mang.html"
+                          data-i18n="Data and document management"
                           >Data and document management
                         </a>
                       </li>
                       <li>
-                        <a href="ocr.html">Scanning and electronic archiving</a>
+                        <a
+                          href="ocr.html"
+                          data-i18n="Scanning and electronic archiving"
+                          >Scanning and electronic archiving</a
+                        >
                       </li>
                       <li>
-                        <a href="support-mang.html">Management-support</a>
+                        <a
+                          href="support-mang.html"
+                          data-i18n="Management support"
+                          >Management-support</a
+                        >
                       </li>
-                      <li><a href="fixed-assets.html">Fixed-assets</a></li>
-                      <li><a href="file-storage.html">File storage </a></li>
-                      <li><a href="apps.html">Design and programming </a></li>
+                      <li>
+                        <a href="fixed-assets.html" data-i18n="Fixed assets"
+                          >Fixed-assets</a
+                        >
+                      </li>
+                      <li>
+                        <a href="file-storage.html" data-i18n="File storage"
+                          >File storage
+                        </a>
+                      </li>
+                      <li>
+                        <a href="apps.html" data-i18n="Design and programming"
+                          >Design and programming
+                        </a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="ecm-solution.html">Solutions</a>
+                    <a href="ecm-solution.html" data-i18n="Solutions"
+                      >Solutions</a
+                    >
                     <ul class="sub-menu">
-                      <li><a href="ecm-solution.html">Ecm-solution</a></li>
-                      <li><a href="dam-solution.html">Dam-solution</a></li>
-                      <li><a href="ims-solution.html">Ims-solution</a></li>
                       <li>
-                        <a href="eArchive.html"
+                        <a href="ecm-solution.html" data-i18n="Ecm solution"
+                          >Ecm-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="dam-solution.html" data-i18n="Dam solution"
+                          >Dam-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="ims-solution.html" data-i18n="Ims solution"
+                          >Ims-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a
+                          href="eArchive.html"
+                          data-i18n="Electronic documents and archiving"
                           >Electronic documents and archiving</a
                         >
                       </li>
                       <li>
-                        <a href="bus-mang.html">Resource Management ERP-CRM</a>
+                        <a
+                          href="bus-mang.html"
+                          data-i18n="Resource Management ERP CRM"
+                          >Resource Management ERP-CRM</a
+                        >
                       </li>
                       <li>
-                        <a href="know-mang.html"
+                        <a
+                          href="know-mang.html"
+                          data-i18n="Knowledge management and education"
                           >Knowledge management and education</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="ecommerce.html">Ecommerce</a>
+                    <a href="ecommerce.html" data-i18n="Ecommerce">Ecommerce</a>
                   </li>
                   <li>
-                    <a href="contact.html">Contact Us</a>
+                    <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
                   <li class="has-children">
-                    <a href="#">Language</a>
-                    <ul class="sub-menu">
+                    <!-- <a href="#">Language</a> -->
+                    <!-- <ul class="sub-menu">
                       <li><a href="index.html">English </a></li>
                       <li><a href="index-rtl.html">Arabic</a></li>
-                    </ul>
+                    </ul> -->
+                    <select id="languageSelector">
+                      <option value="en" selected>English</option>
+                      <option value="ar">Arabic</option>
+                    </select>
                   </li>
                 </ul>
               </nav>
-
               <div class="burger-icon burger-icon-white">
                 <span class="burger-icon-top"></span>
                 <span class="burger-icon-mid"></span>
@@ -141,10 +196,13 @@
           <div class="user-account">
             <img src="assets/imgs/public-imgs/avatar.png" alt="Avatar" />
             <div class="content">
-              <h6 class="user-name">
-                Hi, <span class="text-brand">User</span>
-              </h6>
-              <p class="font-xs text-muted">Welcome to our Digital Platform</p>
+              <h6 class="user-name" data-i18n="Hello">Hello</h6>
+              <p
+                class="font-xs text-muted"
+                data-i18n="Welcome to our Digital Platform"
+              >
+                Welcome to our Digital Platform
+              </p>
             </div>
           </div>
           <div class="burger-icon burger-icon-white">
@@ -155,74 +213,120 @@
         </div>
         <div class="mobile-header-content-area">
           <div class="perfect-scroll">
-            <div class="mobile-search mobile-header-border mb-30">
-              <form action="#">
-                <input type="text" placeholder="Search for items…" />
-                <i class="fi-rr-search"></i>
-              </form>
-            </div>
             <div class="mobile-menu-wrap mobile-header-border">
               <!-- mobile menu start -->
               <nav>
                 <ul class="mobile-menu font-heading">
                   <li>
-                    <a class="active" href="index.html">Home</a>
+                    <a class="active" href="index.html" data-i18n="Home"
+                      >Home</a
+                    >
                   </li>
                   <li class="has-children">
-                    <a href="about.html">About Us</a>
+                    <a href="about.html" data-i18n="About">About Us</a>
                     <ul class="sub-menu">
-                      <li><a href="about.html">Digital Platform</a></li>
-                      <li><a href="clients.html">Clients</a></li>
+                      <li>
+                        <a href="about.html" data-i18n="Digital Platform"
+                          >Digital Platform</a
+                        >
+                      </li>
+                      <li>
+                        <a href="clients.html" data-i18n="Clients">Clients</a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="docs-mang.html">Services</a>
+                    <a href="docs-mang.html" data-i18n="Services">Services</a>
                     <ul class="sub-menu">
                       <li>
-                        <a href="docs-mang.html"
+                        <a
+                          href="docs-mang.html"
+                          data-i18n="Data and document management"
                           >Data and document management
                         </a>
                       </li>
                       <li>
-                        <a href="ocr.html">Scanning and electronic archiving</a>
+                        <a
+                          href="ocr.html"
+                          data-i18n="Scanning and electronic archiving"
+                          >Scanning and electronic archiving</a
+                        >
                       </li>
                       <li>
-                        <a href="support-mang.html">Management-support</a>
+                        <a
+                          href="support-mang.html"
+                          data-i18n="Management support"
+                          >Management-support</a
+                        >
                       </li>
-                      <li><a href="fixed-assets.html">Fixed-assets</a></li>
-                      <li><a href="file-storage.html">File storage </a></li>
-                      <li><a href="apps.html">Design and programming </a></li>
+                      <li>
+                        <a href="fixed-assets.html" data-i18n="Fixed assets"
+                          >Fixed-assets</a
+                        >
+                      </li>
+                      <li>
+                        <a href="file-storage.html" data-i18n="File storage"
+                          >File storage
+                        </a>
+                      </li>
+                      <li>
+                        <a href="apps.html" data-i18n="Design and programming"
+                          >Design and programming
+                        </a>
+                      </li>
                     </ul>
                   </li>
                   <li class="has-children">
-                    <a href="ecm-solution.html">Solutions</a>
+                    <a href="ecm-solution.html" data-i18n="Solutions"
+                      >Solutions</a
+                    >
                     <ul class="sub-menu">
-                      <li><a href="ecm-solution.html">Ecm-solution</a></li>
-                      <li><a href="dam-solution.html">Dam-solution</a></li>
-                      <li><a href="ims-solution.html">Ims-solution</a></li>
                       <li>
-                        <a href="eArchive.html"
+                        <a href="ecm-solution.html" data-i18n="Ecm solution"
+                          >Ecm-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="dam-solution.html" data-i18n="Dam solution"
+                          >Dam-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a href="ims-solution.html" data-i18n="Ims solution"
+                          >Ims-solution</a
+                        >
+                      </li>
+                      <li>
+                        <a
+                          href="eArchive.html"
+                          data-i18n="Electronic documents and archiving"
                           >Electronic documents and archiving</a
                         >
                       </li>
                       <li>
-                        <a href="bus-mang.html">Resource Management ERP-CRM</a>
+                        <a
+                          href="bus-mang.html"
+                          data-i18n="Resource Management ERP CRM"
+                          >Resource Management ERP-CRM</a
+                        >
                       </li>
                       <li>
-                        <a href="know-mang.html"
+                        <a
+                          href="know-mang.html"
+                          data-i18n="Knowledge management and education"
                           >Knowledge management and education</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="ecommerce.html">Ecommerce</a>
+                    <a href="ecommerce.html" data-i18n="Ecommerce">Ecommerce</a>
                   </li>
                   <li>
-                    <a href="contact.html">Contact Us</a>
+                    <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
                   <li class="has-children">
-                    <a href="#">Language</a>
+                    <a href="#" data-i18n="Language">Language</a>
                     <ul class="sub-menu">
                       <li><a href="index.html">English </a></li>
                       <li><a href="index-rtl.html">Arabic</a></li>
@@ -233,7 +337,7 @@
               <!-- mobile menu end -->
             </div>
             <div class="mobile-social-icon mb-50 mt-20">
-              <h6 class="mb-25">Follow Us</h6>
+              <h6 class="mb-25" data-i18n="Follow Us">Follow Us</h6>
               <a href="#"
                 ><img src="assets/imgs/public-imgs/facebook.svg" alt="facebook"
               /></a>
@@ -256,21 +360,20 @@
       <section class="section-box">
         <div class="box-head-single">
           <div class="container">
-            <h3>Electronic archiving systems</h3>
+            <h3 data-i18n="Electronic archiving systems">
+              Electronic archiving systems
+            </h3>
             <ul class="breadcrumbs">
-              <li><a href="index.html">Home</a></li>
-              <li>Electronic archiving systems</li>
+              <li data-i18n="Home"><a href="index.html">Home</a></li>
+              <li data-i18n="Electronic archiving systems">
+                Electronic archiving systems
+              </li>
             </ul>
           </div>
         </div>
       </section>
       <div class="archive-header pt-50 text-center">
-        <div class="container">
-          <!-- <h5 class="mb-30 text-center w-100 mx-auto">
-            The scanning task is of great importance in the process of switching
-            to electronic archiving and electronic document management
-          </h5> -->
-        </div>
+        <div class="container"></div>
       </div>
       <div class="post-loop-grid">
         <div class="container-fluid">
@@ -280,7 +383,9 @@
                 <div class="single-content">
                   <div class="row">
                     <div class="col-md-9 col-xs-12">
-                      <p>
+                      <p
+                        data-i18n="Electronic archiving contributes to freeing your office from the accumulation of papers, correspondence and transactions. By providing integrated solutions for organizing, indexing and archiving your documents and daily transactions, from contracts, invoices, reports and government transactions, all of them will be organized, indexed and at your fingertips with just a touch of a button, and you can order and search for them in just a few seconds at any time without putting more effort and effort into manual search and extracting paper files from traditional shelves."
+                      >
                         Electronic archiving contributes to freeing your office
                         from the accumulation of papers, correspondence and
                         transactions. By providing integrated solutions for
@@ -309,53 +414,66 @@
                       />
                     </div>
                     <div class="col-md-9 col-xs-12">
-                      <p>
+                      <p
+                        data-i18n="The digital platform introduces the document container system for document management and electronic archiving; this system has received great attention from customers for its efficiency in managing and archiving documents and for ease of handling by ordinary users."
+                      >
                         The digital platform introduces the document container
                         system for document management and electronic archiving;
                         this system has received great attention from customers
                         for its efficiency in managing and archiving documents
                         and for ease of handling by ordinary users.
                       </p>
-                      <h5 class="fw-bold">
+                      <h5
+                        class="fw-bold"
+                        data-i18n="Our systems are characterized by their ability to:"
+                      >
                         Our systems are characterized by their ability to:
                       </h5>
-                      <p>Data capture:</p>
-                      <p>
+                      <p data-i18n="Data capture:">Data capture:</p>
+                      <p
+                        data-i18n="Documents and files are scanned and uploaded to the electronic system with centralized control and shared across the organization's units."
+                      >
                         Documents and files are scanned and uploaded to the
                         electronic system with centralized control and shared
                         across the organization's units.
                       </p>
                       <hr />
-                      <p>Document strategy:</p>
-                      <p>
+                      <p data-i18n="Document strategy:">Document strategy:</p>
+                      <p
+                        data-i18n="Full support for the archival Tree of the organization's files and alignment with the strategy of files such as financial, procurement, personnel, administrative and medical files."
+                      >
                         Full support for the archival Tree of the organization's
                         files and alignment with the strategy of files such as
                         financial, procurement, personnel, administrative and
                         medical files.
                       </p>
                       <hr />
-                      <p>File sharing:</p>
+                      <p data-i18n="File sharing:">File sharing:</p>
                       <ul>
-                        <li>
+                        <li
+                          data-i18n="High possibility of exchanging files within the organization according to the powers available to each department without overlapping work."
+                        >
                           <i class="fa-solid fa-check green-correct"></i>High
                           possibility of exchanging files within the
                           organization according to the powers available to each
                           department without overlapping work.
                         </li>
-                        <li>
+                        <li data-i18n="Support for cloud storage – cloud.">
                           <i class="fa-solid fa-check green-correct"></i>Support
                           for cloud storage – cloud.
                         </li>
-                        <li>
+                        <li data-i18n="Secure login and ease of use.">
                           <i class="fa-solid fa-check green-correct"></i>Secure
                           login and ease of use.
                         </li>
-                        <li>
+                        <li
+                          data-i18n="Work from any branch in any region and from the field as if you are in one office."
+                        >
                           <i class="fa-solid fa-check green-correct"></i>Work
                           from any branch in any region and from the field as if
                           you are in one office.
                         </li>
-                        <li>
+                        <li data-i18n="Synchronize files across branches.">
                           <i class="fa-solid fa-check green-correct"></i
                           >Synchronize files across branches.
                         </li>
@@ -363,30 +481,49 @@
                     </div>
                     <hr />
                     <div class="col-md-9 col-xs-12">
-                      <h5 class="fw-bold">
+                      <h5
+                        class="fw-bold"
+                        data-i18n="Our systems are characterized by their ability to:"
+                      >
                         Our systems are characterized by their ability to:
                       </h5>
-                      <p class="fw-bold">Easy search and retrieval:</p>
-                      <p>
+                      <p data-i18n="Easy search and retrieval:" class="fw-bold">
+                        Easy search and retrieval:
+                      </p>
+                      <p
+                        data-i18n="A search engine for quick access to the required files, full support for printers, scanners, barcodes."
+                      >
                         A search engine for quick access to the required files,
                         full support for printers, scanners, barcodes.
                       </p>
                       <hr />
-                      <p class="fw-bold">Cloud support:</p>
-                      <p>
+                      <p data-i18n="Cloud support:" class="fw-bold">
+                        Cloud support:
+                      </p>
+                      <p
+                        data-i18n="Support for cloud drives and file synchronization via the electronic system."
+                      >
                         Support for cloud drives and file synchronization via
                         the electronic system.
                       </p>
                       <hr />
-                      <p class="fw-bold">Multiple powers:</p>
-                      <p>
+                      <p data-i18n="Multiple powers:" class="fw-bold">
+                        Multiple powers:
+                      </p>
+                      <p
+                        data-i18n="Determine the powers of employees according to the tasks assigned to them, and according to the departments and documents that are under their authority."
+                      >
                         Determine the powers of employees according to the tasks
                         assigned to them, and according to the departments and
                         documents that are under their authority.
                       </p>
                       <hr />
-                      <p class="fw-bold">Work volume:</p>
-                      <p>
+                      <p data-i18n="Work volume:" class="fw-bold">
+                        Work volume:
+                      </p>
+                      <p
+                        data-i18n="It makes it easy for managers to distribute daily work task files to employees, share them from anywhere, exchange documents between departments and branches, edit and save them directly such as word and Excel files."
+                      >
                         It makes it easy for managers to distribute daily work
                         task files to employees, share them from anywhere,
                         exchange documents between departments and branches,
@@ -394,13 +531,19 @@
                         files.
                       </p>
                       <hr />
-                      <p class="fw-bold">Archive folders:</p>
-                      <p>
+                      <p data-i18n="Archive folders:" class="fw-bold">
+                        Archive folders:
+                      </p>
+                      <p
+                        data-i18n="You'll find an electronic copy at your fingertips of any saved file or transaction, effortlessly. Archiving e-mail, faxes, files, documents and also:"
+                      >
                         You'll find an electronic copy at your fingertips of any
                         saved file or transaction, effortlessly. Archiving
                         e-mail, faxes, files, documents and also:
                       </p>
-                      <p>
+                      <p
+                        data-i18n="Invoices/reports/contracts/extracts/circulars/statements/personnel files/ patient files/customer files/Project reports/ project files/ waybills / case and insurance files."
+                      >
                         Invoices/reports/contracts/extracts/circulars/statements/personnel
                         files/ patient files/customer files/Project reports/
                         project files/ waybills / case and insurance files.
@@ -422,43 +565,74 @@
                       />
                     </div>
                     <div class="col-md-9 col-xs-12">
-                      <h5 class="fw-bold">
+                      <h5
+                        class="fw-bold"
+                        data-i18n="Our systems are characterized by their ability to:"
+                      >
                         Our systems are characterized by their ability to:
                       </h5>
-                      <p class="fw-bold">Scanning documents:</p>
-                      <p>
+                      <p data-i18n="Scanning documents:" class="fw-bold">
+                        Scanning documents:
+                      </p>
+                      <p
+                        data-i18n="Enable employees to scan files and deposit them to the Cloud Archive and enable employees in record time to work on them and share them."
+                      >
                         Enable employees to scan files and deposit them to the
                         Cloud Archive and enable employees in record time to
                         work on them and share them.
                       </p>
                       <hr />
-                      <p class="fw-bold">Print copies from anywhere:</p>
-                      <p>
+                      <p
+                        data-i18n="Print copies from anywhere:"
+                        class="fw-bold"
+                      >
+                        Print copies from anywhere:
+                      </p>
+                      <p
+                        data-i18n="It is very easy to print any required file in record time and from any branch connected to the electronic cloud."
+                      >
                         It is very easy to print any required file in record
                         time and from any branch connected to the electronic
                         cloud.
                       </p>
                       <hr />
-                      <p class="fw-bold">Email support:</p>
-                      <p>Send documents directly from the system via e-mail.</p>
+                      <p data-i18n="Email support:" class="fw-bold">
+                        Email support:
+                      </p>
+                      <p
+                        data-i18n="Send documents directly from the system via e-mail."
+                      >
+                        Send documents directly from the system via e-mail.
+                      </p>
                       <hr />
-                      <p class="fw-bold">
+                      <p
+                        data-i18n="Customization according to customer needs:"
+                        class="fw-bold"
+                      >
                         Customization according to customer needs:
                       </p>
-                      <p>
+                      <p
+                        data-i18n="We provide customization and programming services according to customer requirements."
+                      >
                         We provide customization and programming services
                         according to customer requirements.
                       </p>
                       <hr />
-                      <p class="fw-bold">Backup backup:</p>
-                      <p>
+                      <p data-i18n="Backup backup:" class="fw-bold">
+                        Backup backup:
+                      </p>
+                      <p
+                        data-i18n="The ability to make automatic backup of electronic archiving units"
+                      >
                         The ability to make automatic backup of electronic
                         archiving units
                       </p>
                     </div>
                     <hr />
                     <blockquote class="text-center" style="padding: 10px 10px">
-                      <p>
+                      <p
+                        data-i18n="Image of interfaces of electronic systems for document management and archiving"
+                      >
                         Image of interfaces of electronic systems for document
                         management and archiving
                       </p>
@@ -494,41 +668,74 @@
             <a href="index.html"
               ><img alt="Logo" src="assets/imgs/public-imgs/logo.png"
             /></a>
-            <div class="mt-20 mb-20">
+            <div
+              class="mt-20 mb-20"
+              data-i18n="Providing innovative software solutions and IT services to government sectors and companies."
+            >
               Providing innovative software solutions and IT<br />
               services to government sectors and companies.
             </div>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Company</h6>
+            <h6 data-i18n="Company">Company</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="about.html">About us</a></li>
-              <li><a href="clients.html">Our Clients</a></li>
-              <li><a href="about.html">Digital Platform</a></li>
+              <li><a href="about.html" data-i18n="About us">About us</a></li>
+              <li>
+                <a href="clients.html" data-i18n="Our Clients">Our Clients</a>
+              </li>
+              <li>
+                <a href="about.html" data-i18n="Digital Platform"
+                  >Digital Platform</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Services</h6>
+            <h6 data-i18n="Services">Services</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="fixed-assets.html">Fixed Assets</a></li>
-              <li><a href="file-storage.html">File Storage</a></li>
-              <li><a href="support-mang.html">Management Support</a></li>
+              <li>
+                <a href="fixed-assets.html" data-i18n="Fixed Assets"
+                  >Fixed Assets</a
+                >
+              </li>
+              <li>
+                <a href="file-storage.html" data-i18n="File Storage"
+                  >File Storage</a
+                >
+              </li>
+              <li>
+                <a href="support-mang.html" data-i18n="Management Support"
+                  >Management Support</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Solutions</h6>
+            <h6 data-i18n="Solutions">Solutions</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="ecm-solution.html">Ecm-solution</a></li>
-              <li><a href="dam-solution.html">Dam-solution</a></li>
-              <li><a href="ims-solution.html">Ims-solution</a></li>
+              <li>
+                <a href="ecm-solution.html" data-i18n="Ecm-solution"
+                  >Ecm-solution</a
+                >
+              </li>
+              <li>
+                <a href="dam-solution.html" data-i18n="Dam-solution"
+                  >Dam-solution</a
+                >
+              </li>
+              <li>
+                <a href="ims-solution.html" data-i18n="Ims-solution"
+                  >Ims-solution</a
+                >
+              </li>
             </ul>
           </div>
           <div class="col-md-2 col-xs-6">
-            <h6>Support</h6>
+            <h6 data-i18n="Support">Support</h6>
             <ul class="menu-footer mt-40">
-              <li><a href="contact.html">Contact Us</a></li>
-              <li><a href="index-rtl.html">Ar</a></li>
-              <li><a href="index.html">En</a></li>
+              <li>
+                <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -583,6 +790,7 @@
     <script src="assets/js/plugins/scrollup.js"></script>
     <script src="assets/js/plugins/swiper-bundle.min.js"></script>
     <!-- Template  JS -->
+    <script src="assets/js/i18n.js" type="module"></script>
     <script src="assets/js/main.js?v=1.0"></script>
   </body>
 </html>
