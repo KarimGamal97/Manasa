@@ -558,7 +558,47 @@ const translations = {
       "Promote cooperation and sharing in the use of digital assets",
     "By implementing DAM systems, organizations are able to take advantage of these advantages and enhance the efficiency of digital asset management processes in general.":
       "By implementing DAM systems, organizations are able to take advantage of these advantages and enhance the efficiency of digital asset management processes in general.",
-    "": "",
+
+    "IMS data management": "IMS data management",
+    "Data management is a set of practices and processes that organizations use to effectively manage their data. Data management includes several key aspects, the most important of which are:":
+      "Data management is a set of practices and processes that organizations use to effectively manage their data. Data management includes several key aspects, the most important of which are:",
+    "Data collection:": "Data collection:",
+    "Identify different data sources inside and outside the organization":
+      "Identify different data sources inside and outside the organization",
+    "Develop strategies and mechanisms for data collection in an organized and effective manner":
+      "Develop strategies and mechanisms for data collection in an organized and effective manner",
+    "Data storage systems:": "Data storage systems:",
+    "Selection and development of the appropriate data storage infrastructure":
+      "Selection and development of the appropriate data storage infrastructure",
+    "Design databases and organize data hierarchically or relationally":
+      "Design databases and organize data hierarchically or relationally",
+    "Data processing and purification:": "Data processing and purification:",
+    "Application of cleaning and data validation processes":
+      "Application of cleaning and data validation processes",
+    "Remove duplicate or incorrect data": "Remove duplicate or incorrect data",
+    "Classification and documentation of data:":
+      "Classification and documentation of data:",
+    "Development of a system for classifying data by specific categories and classifications":
+      "Development of a system for classifying data by specific categories and classifications",
+    "Document data and create a comprehensive data directory":
+      "Document data and create a comprehensive data directory",
+    "Data Governance Department:": "Data Governance Department:",
+    "Define policies and procedures for effective data management":
+      "Define policies and procedures for effective data management",
+    "Define roles and responsibilities for data management within the organization":
+      "Define roles and responsibilities for data management within the organization",
+    "Data security and protection:": "Data security and protection:",
+    "Apply security measures to protect data from damage or hacking":
+      "Apply security measures to protect data from damage or hacking",
+    "Create backup copies and keep records of changes":
+      "Create backup copies and keep records of changes",
+    "Analysis and use of data:": "Analysis and use of data:",
+    "Develop data analysis capabilities to extract valuable information":
+      "Develop data analysis capabilities to extract valuable information",
+    "Integrate data and synthesize knowledge to make more effective decisions":
+      "Integrate data and synthesize knowledge to make more effective decisions",
+    "We help organizations implement effective data management so that they can make the most of their data and achieve their operational and strategic goals.":
+      "We help organizations implement effective data management so that they can make the most of their data and achieve their operational and strategic goals.",
     "": "",
     "": "",
     "": "",
@@ -1097,6 +1137,45 @@ const translations = {
       "تعزيز التعاون والمشاركة في استخدام الأصول الرقمية",
     "By implementing DAM systems, organizations are able to take advantage of these advantages and enhance the efficiency of digital asset management processes in general.":
       "من خلال تنفيذ أنظمة DAM، تكون المؤسسات قادرة على الاستفادة من هذه المزايا وتعزيز كفاءة عمليات إدارة الأصول الرقمية بشكل عام.",
+    "IMS data management": "إدارة بيانات IMS",
+    "Data management is a set of practices and processes that organizations use to effectively manage their data. Data management includes several key aspects, the most important of which are:":
+      "إدارة البيانات هي مجموعة من الممارسات والعمليات التي تستخدمها المؤسسات لإدارة بياناتها بشكل فعال. تتضمن إدارة البيانات عدة جوانب رئيسية، من أهمها:",
+    "Data collection:": "جمع البيانات:",
+    "Identify different data sources inside and outside the organization":
+      "تحديد مصادر البيانات المختلفة داخل وخارج المنظمة",
+    "Develop strategies and mechanisms for data collection in an organized and effective manner":
+      "تطوير استراتيجيات وآليات لجمع البيانات بطريقة منظمة وفعالة",
+    "Data storage systems:": "أنظمة تخزين البيانات:",
+    "Selection and development of the appropriate data storage infrastructure":
+      "اختيار وتطوير البنية التحتية المناسبة لتخزين البيانات",
+    "Design databases and organize data hierarchically or relationally":
+      "تصميم قواعد البيانات وتنظيم البيانات بشكل هرمي أو علائقي",
+    "Data processing and purification:": "معالجة البيانات وتنقيتها:",
+    "Application of cleaning and data validation processes":
+      "تطبيق عمليات تنظيف وتحقق من البيانات",
+    "Remove duplicate or incorrect data": "إزالة البيانات المكررة أو الخاطئة",
+    "Classification and documentation of data:": "تصنيف وتوثيق البيانات:",
+    "Development of a system for classifying data by specific categories and classifications":
+      "تطوير نظام لتصنيف البيانات بواسطة فئات وتصنيفات محددة",
+    "Document data and create a comprehensive data directory":
+      "توثيق البيانات وإنشاء دليل شامل للبيانات",
+    "Data Governance Department:": "قسم حوكمة البيانات:",
+    "Define policies and procedures for effective data management":
+      "تحديد السياسات والإجراءات لإدارة فعالة للبيانات",
+    "Define roles and responsibilities for data management within the organization":
+      "تحديد الأدوار والمسؤوليات لإدارة البيانات داخل المنظمة",
+    "Data security and protection:": "أمن وحماية البيانات:",
+    "Apply security measures to protect data from damage or hacking":
+      "تطبيق التدابير الأمنية لحماية البيانات من التلف أو القرصنة",
+    "Create backup copies and keep records of changes":
+      "إنشاء نسخ احتياطية والاحتفاظ بسجلات التغييرات",
+    "Analysis and use of data:": "تحليل واستخدام البيانات:",
+    "Develop data analysis capabilities to extract valuable information":
+      "تطوير قدرات تحليل البيانات لاستخراج معلومات قيمة",
+    "Integrate data and synthesize knowledge to make more effective decisions":
+      "دمج البيانات وتوليف المعرفة لاتخاذ قرارات أكثر فعالية",
+    "We help organizations implement effective data management so that they can make the most of their data and achieve their operational and strategic goals.":
+      "نساعد المنظمات على تنفيذ إدارة فعالة للبيانات حتى يتمكنوا من تحقيق أقصى استفادة من بياناتهم وتحقيق أهدافهم التشغيلية والاستراتيجية.",
   },
 };
 
