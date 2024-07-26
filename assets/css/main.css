@@ -2719,7 +2719,7 @@ label {
 .header .main-header {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .header .main-header .header-left {
   display: flex;
