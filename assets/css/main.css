@@ -7495,4 +7495,14 @@ label {
   color: rgb(37, 155, 37);
   margin-right: 10px;
 }
+
+.languageSelector {
+  padding: 5px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  font-weight: bold;
+  color: #ce2b06;
+  cursor: pointer;
+}
+
 /* Whatsapp Icon  */
