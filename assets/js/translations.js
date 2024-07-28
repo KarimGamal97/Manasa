@@ -52,8 +52,8 @@ const translations = {
       "We help you with digital transformation and business automation Integrated digital management",
     "Data management and electronic archiving":
       "Data management and electronic archiving",
-    "We provide data management services and solutions for archiving documents and documents":
-      "We provide data management services and solutions for archiving documents and documents",
+    "We provide data management services and solutions for archiving documents":
+      "We provide data management services and solutions for archiving documents",
     "Asset and property management": "Asset and property management",
     "We provide inventory and management services for tangible and digital assets and ECM scanning":
       "We provide inventory and management services for tangible and digital assets and ECM scanning",
@@ -803,7 +803,7 @@ const translations = {
       "نساعدك في التحول الرقمي وأتمتة الأعمال والإدارة الرقمية المتكاملة",
     "Data management and electronic archiving":
       "إدارة البيانات والأرشفة الإلكترونية",
-    "We provide data management services and solutions for archiving documents and documents":
+    "We provide data management services and solutions for archiving documents":
       "نقدم خدمات وحلول إدارة البيانات للأرشفة والوثائق",
     "Asset and property management": "إدارة الأصول والممتلكات",
     "We provide inventory and management services for tangible and digital assets and ECM scanning":
