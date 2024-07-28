@@ -856,16 +856,16 @@ const translations = {
       "نستمر في التعلم والتفكير والابتكار ، وبناء مشاريعنا على أسس علمية مدونة.",
     "We do not give up organized work, focus on the quality of the results.":
       "لا نتخلى عن العمل المنظم ، نركز على جودة النتائج.",
-    "Infrastructure and staff:": "البنية التحتية والموظفين:",
+    "Infrastructure and staff:": ": البنية التحتية والموظفين",
     "We focus on quality, not quantity, ethics, transparency, and short response times.":
-      "نركز على الجودة وليس الكمية ، والأخلاقيات ، والشفافية ، وسرعة الاستجابة.",
+      "نركز على الجودة وليس الكمية ، والأخلاقيات ، والشفافية ، وسرعة الاستجابة",
     "The digital platform monitors for the implementation of its work in the development of IT Solutions a highly experienced qualified staff, well-trained in international IT centers. All members of the team have a high professional background and possess deep skills and experience.":
       "ترصد المنصة الرقمية لتنفيذ عملها في تطوير حلول تكنولوجيا المعلومات فريقًا مؤهلًا ذو خبرة عالية ، مدرب تدريباً جيداً في المراكز الدولية لتكنولوجيا المعلومات. يتمتع جميع أعضاء الفريق بخلفية مهنية عالية ويملكون مهارات وخبرات عميقة.",
     "As a result, we can guarantee that all our digital services provided contain the highest level of quality, God willing.":
       "ونتيجة لذلك ، يمكننا ضمان أن جميع خدماتنا الرقمية المقدمة تحتوي على أعلى مستوى من الجودة ، إن شاء الله.",
     "Our partners in success": "شركاؤنا في النجاح",
     "Together with our partners in success, we're reaching for even greater heights.":
-      "مع شركائنا في النجاح ، نتطلع إلى آفاق أعلى.",
+      ".مع شركائنا في النجاح ، نتطلع إلى آفاق أعلى",
     "The platform's intuitive interface makes collaboration a breeze, and we never miss a deadline thanks to the built-in task management features.":
       "تجعل واجهة المنصة البديهية التعاون أمرًا سهلاً ، ولا نفوت أي موعد نهائي بفضل ميزات إدارة المهام المضمنة.",
     "Ministry of Education": "وزارة التعليم",

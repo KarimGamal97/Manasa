@@ -46,7 +46,7 @@
       </div>
     </div>
     <header class="header sticky-bar">
-      <div class="container">
+      <div class="container-fluid">
         <div class="main-header">
           <div class="header-left">
             <div class="header-logo">
@@ -58,9 +58,7 @@
               <nav class="nav-main-menu d-none d-xl-block">
                 <ul class="main-menu">
                   <li>
-                    <a class="active" href="index.html" data-i18n="Home"
-                      >Home</a
-                    >
+                    <a href="index.html" data-i18n="Home">Home</a>
                   </li>
                   <li class="has-children">
                     <a href="about.html" data-i18n="About">About Us</a>
@@ -81,6 +79,7 @@
                       <li>
                         <a
                           href="docs-mang.html"
+                          class="active"
                           data-i18n="Data and document management"
                           >Data and document management
                         </a>
@@ -165,15 +164,10 @@
                   <li>
                     <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
-                  <li class="has-children">
-                    <!-- <a href="#">Language</a> -->
-                    <!-- <ul class="sub-menu">
-                      <li><a href="index.html">English </a></li>
-                      <li><a href="index-rtl.html">Arabic</a></li>
-                    </ul> -->
+                  <li style="margin: 13px">
                     <select id="languageSelector">
-                      <option value="en" selected>English</option>
-                      <option value="ar">Arabic</option>
+                      <option value="en">English</option>
+                      <option value="ar" selected>Arabic</option>
                     </select>
                   </li>
                 </ul>
@@ -324,13 +318,6 @@
                   </li>
                   <li>
                     <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
-                  </li>
-                  <li class="has-children">
-                    <a href="#" data-i18n="Language">Language</a>
-                    <ul class="sub-menu">
-                      <li><a href="index.html">English </a></li>
-                      <li><a href="index-rtl.html">Arabic</a></li>
-                    </ul>
                   </li>
                 </ul>
               </nav>
