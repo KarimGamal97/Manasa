@@ -46,7 +46,7 @@
       </div>
     </div>
     <header class="header sticky-bar">
-      <div class="container">
+      <div class="container-fluid">
         <div class="main-header">
           <div class="header-left">
             <div class="header-logo">
@@ -165,15 +165,10 @@
                   <li>
                     <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
-                  <li class="has-children">
-                    <!-- <a href="#">Language</a> -->
-                    <!-- <ul class="sub-menu">
-                      <li><a href="index.html">English </a></li>
-                      <li><a href="index-rtl.html">Arabic</a></li>
-                    </ul> -->
-                    <select id="languageSelector">
-                      <option value="en" selected>English</option>
-                      <option value="ar">Arabic</option>
+                  <li style="margin: 5px">
+                    <select id="languageSelector" class="languageSelector">
+                      <option value="en">English</option>
+                      <option value="ar" selected>العربية</option>
                     </select>
                   </li>
                 </ul>
@@ -325,29 +320,24 @@
                   <li>
                     <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
-                  <li class="has-children">
-                    <a href="#" data-i18n="Language">Language</a>
-                    <ul class="sub-menu">
-                      <li><a href="index.html">English </a></li>
-                      <li><a href="index-rtl.html">Arabic</a></li>
-                    </ul>
-                  </li>
                 </ul>
               </nav>
               <!-- mobile menu end -->
             </div>
             <div class="mobile-social-icon mb-50 mt-20">
               <h6 class="mb-25" data-i18n="Follow Us">Follow Us</h6>
-              <a href="#"
-                ><img src="assets/imgs/public-imgs/facebook.svg" alt="facebook"
-              /></a>
-              <a href="#"
+              <a href="https://x.com/mnsah_SA"
                 ><img src="assets/imgs/public-imgs/twitter.svg" alt="twitter"
               /></a>
-              <a href="#"
+              <a href="https://www.linkedin.com/in/mnsah/"
                 ><img
-                  src="assets/imgs/public-imgs/instagram-icon.svg"
-                  alt="instagram"
+                  src="assets/imgs/Manasa-Imgs/linkedin-icon.svg"
+                  alt="linkedin"
+              /></a>
+              <a href="https://www.youtube.com/@almnsah"
+                ><img
+                  src="assets/imgs/Manasa-Imgs/youtube-icon.svg"
+                  alt="youtube"
               /></a>
             </div>
           </div>
@@ -398,7 +388,7 @@
                   </blockquote>
                   <div class="row">
                     <div class="col-md-8 col-xs-12">
-                      <ul>
+                      <ul style="list-style: disc">
                         <li
                           data-i18n="Providing a secure storage equipped with security and protection means to save and store files"
                         >
@@ -479,7 +469,7 @@
                       archives center within the organization:
                     </h5>
                     <div class="col-md-12 col-xs-12 mb-50">
-                      <ul>
+                      <ul style="list-style: disc">
                         <li
                           data-i18n="Supply of various stationary, mobile and electric file cabinets"
                         >
@@ -488,8 +478,7 @@
                           cabinets
                         </li>
                         <li
-                          data-i18n="Supplying the documents and archives center management system for registering documents,
-                        controlling their loan and determining the duration of preservation and destruction"
+                          data-i18n="Supplying the documents and archives center management system for registering documents, controlling their loan and determining the duration of preservation and destruction"
                         >
                           <i class="fa-solid fa-check green-correct"></i
                           >Supplying the documents and archives center
@@ -526,12 +515,6 @@
                           of the National Center for documents and Archives in
                           the kingdom of Saudi Arabia
                         </li>
-                        <li
-                          data-i18n="Secure destruction services for expired documents"
-                        >
-                          <i class="fa-solid fa-check green-correct"></i>Secure
-                          destruction services for expired documents
-                        </li>
                       </ul>
                     </div>
                     <hr />
@@ -556,8 +539,8 @@
               class="mt-20 mb-20"
               data-i18n="Providing innovative software solutions and IT services to government sectors and companies."
             >
-              Providing innovative software solutions and IT<br />
-              services to government sectors and companies.
+              Providing innovative software solutions and IT services to
+              government sectors and companies.
             </div>
           </div>
           <div class="col-md-2 col-xs-6">
@@ -630,15 +613,22 @@
               <script>
                 document.write(/\d{4}/.exec(Date())[0]);
               </script>
-              <a href="#"><strong>Mansa</strong></a
-              >. All Rights Reserved
+              <strong>Mansa</strong>. All Rights Reserved
             </div>
             <div class="col-md-6 text-md-end text-start">
               <div class="footer-social">
-                <a href="#" class="icon-socials icon-facebook"></a>
-                <a href="#" class="icon-socials icon-twitter"></a>
-                <a href="#" class="icon-socials icon-instagram"></a>
-                <a href="#" class="icon-socials icon-linkedin"></a>
+                <!-- <a href="#" class="icon-socials icon-facebook"></a> -->
+                <a
+                  href="https://x.com/mnsah_SA"
+                  target="_blank"
+                  class="icon-socials icon-twitter"
+                ></a>
+                <!-- <a href="#" class="icon-socials icon-instagram"></a> -->
+                <a
+                  href="https://www.linkedin.com/in/mnsah/"
+                  target="_blank"
+                  class="icon-socials icon-linkedin"
+                ></a>
               </div>
             </div>
           </div>

@@ -57,12 +57,12 @@
               <nav class="nav-main-menu d-none d-xl-block">
                 <ul class="main-menu">
                   <li>
-                    <a href="index.html" data-i18n="Home">Home</a>
+                    <a class="active" href="index.html" data-i18n="Home"
+                      >Home</a
+                    >
                   </li>
                   <li class="has-children">
-                    <a class="active" href="about.html" data-i18n="About"
-                      >About Us</a
-                    >
+                    <a href="about.html" data-i18n="About">About Us</a>
                     <ul class="sub-menu">
                       <li>
                         <a href="about.html" data-i18n="Digital Platform"
@@ -164,10 +164,10 @@
                   <li>
                     <a href="contact.html" data-i18n="Contact Us">Contact Us</a>
                   </li>
-                  <li style="margin: 13px">
-                    <select id="languageSelector">
+                  <li style="margin: 5px">
+                    <select id="languageSelector" class="languageSelector">
                       <option value="en">English</option>
-                      <option value="ar" selected>Arabic</option>
+                      <option value="ar" selected>العربية</option>
                     </select>
                   </li>
                 </ul>
@@ -325,16 +325,18 @@
             </div>
             <div class="mobile-social-icon mb-50 mt-20">
               <h6 class="mb-25" data-i18n="Follow Us">Follow Us</h6>
-              <a href="#"
-                ><img src="assets/imgs/public-imgs/facebook.svg" alt="facebook"
-              /></a>
-              <a href="#"
+              <a href="https://x.com/mnsah_SA"
                 ><img src="assets/imgs/public-imgs/twitter.svg" alt="twitter"
               /></a>
-              <a href="#"
+              <a href="https://www.linkedin.com/in/mnsah/"
                 ><img
-                  src="assets/imgs/public-imgs/instagram-icon.svg"
-                  alt="instagram"
+                  src="assets/imgs/Manasa-Imgs/linkedin-icon.svg"
+                  alt="linkedin"
+              /></a>
+              <a href="https://www.youtube.com/@almnsah"
+                ><img
+                  src="assets/imgs/Manasa-Imgs/youtube-icon.svg"
+                  alt="youtube"
               /></a>
             </div>
           </div>
@@ -792,8 +794,8 @@
               class="mt-20 mb-20"
               data-i18n="Providing innovative software solutions and IT services to government sectors and companies."
             >
-              Providing innovative software solutions and IT<br />
-              services to government sectors and companies.
+              Providing innovative software solutions and IT services to
+              government sectors and companies.
             </div>
           </div>
           <div class="col-md-2 col-xs-6">
@@ -866,15 +868,22 @@
               <script>
                 document.write(/\d{4}/.exec(Date())[0]);
               </script>
-              <a href="#"><strong>Mansa</strong></a
-              >. All Rights Reserved
+              <strong>Mansa</strong>. All Rights Reserved
             </div>
             <div class="col-md-6 text-md-end text-start">
               <div class="footer-social">
-                <a href="#" class="icon-socials icon-facebook"></a>
-                <a href="#" class="icon-socials icon-twitter"></a>
-                <a href="#" class="icon-socials icon-instagram"></a>
-                <a href="#" class="icon-socials icon-linkedin"></a>
+                <!-- <a href="#" class="icon-socials icon-facebook"></a> -->
+                <a
+                  href="https://x.com/mnsah_SA"
+                  target="_blank"
+                  class="icon-socials icon-twitter"
+                ></a>
+                <!-- <a href="#" class="icon-socials icon-instagram"></a> -->
+                <a
+                  href="https://www.linkedin.com/in/mnsah/"
+                  target="_blank"
+                  class="icon-socials icon-linkedin"
+                ></a>
               </div>
             </div>
           </div>
