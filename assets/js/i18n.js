@@ -15,5 +15,5 @@ const setLanguage = (language) => {
     const translationKey = element.getAttribute("data-i18n");
     element.textContent = translations[language][translationKey];
   });
-  // document.dir = language === "ar" ? "rtl" : "ltr";
+  document.dir = language === "ar" ? "rtl" : "ltr";
 };
