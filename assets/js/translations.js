@@ -21,7 +21,7 @@ const translations = {
     Ecommerce: "Ecommerce",
     "Contact Us": "Contact Us",
     Hello: "Hello",
-    " Welcome to our Digital Platform": "Welcome to our Digital Platform",
+    "Welcome to our Digital Platform": "Welcome to our Digital Platform",
     Language: "Language",
     "Follow Us": "Follow Us",
     "Moving towards the Digital transformation future":
