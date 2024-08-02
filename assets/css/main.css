@@ -3693,7 +3693,7 @@ label {
   height: 42px;
   color: #ffffff;
   right: 30px;
-  bottom: 30px;
+  bottom: 50px;
   border-radius: 30px;
   text-align: center;
   overflow: hidden;
@@ -7505,4 +7505,9 @@ label {
   cursor: pointer;
 }
 
+@media (max-width: 991px) {
+  .div-center {
+    text-align: center;
+  }
+}
 /* Whatsapp Icon  */
