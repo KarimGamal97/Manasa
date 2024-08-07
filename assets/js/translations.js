@@ -96,8 +96,7 @@ const translations = {
     "What makes us different": "What makes us different",
     "Innovation, knowledge, experience, quality, reasonable price, integrity, quick response, depth of skills, rich experience":
       "Innovation, knowledge, experience, quality, reasonable price, integrity, quick response, depth of skills, rich experience",
-    "Many things distinguish us, we are:":
-      "Many things distinguish us, we are:",
+    "Since our launch in 2013:": "Since our launch in 2013:",
     "We build long-term business relationships with clients based on ethics and transparency of dealing.":
       "We build long-term business relationships with clients based on ethics and transparency of dealing.",
     "We pursue simplicity in dealing, and achieve quick response.":
@@ -747,6 +746,10 @@ const translations = {
     "Electronic testing systems": "Electronic testing systems",
     "Automated debugging systems for tests":
       "Automated debugging systems for tests",
+    "The digital platform for information technology is registered at the Ministry of Commerce with the number 1010370520.":
+      "The digital platform for information technology is registered at the Ministry of Commerce with the number 1010370520.",
+    "": "",
+    "": "",
     "": "",
   },
   "": "",
@@ -847,7 +850,7 @@ const translations = {
     "What makes us different": "ما يميزنا",
     "Innovation, knowledge, experience, quality, reasonable price, integrity, quick response, depth of skills, rich experience":
       "الابتكار والمعرفة والخبرة والجودة والسعر المعقول والنزاهة والاستجابة السريعة وعمق المهارات والخبرة الغنية",
-    "Many things distinguish us, we are:": "الكثير من الأشياء يميزنا ، نحن:",
+    "Since our launch in 2013:": "منذ انطلاقتنا في 2013:",
     "We build long-term business relationships with clients based on ethics and transparency of dealing.":
       "نبني علاقات تجارية طويلة الأمد مع العملاء بناءً على الأخلاقيات والشفافية في التعامل.",
     "We pursue simplicity in dealing, and achieve quick response.":
@@ -1457,6 +1460,12 @@ const translations = {
     "Electronic testing systems": "أنظمة الاختبارات الإلكترونية",
     "Automated debugging systems for tests":
       "أنظمة تصحيح الأخطاء الآلية للاختبارات",
+    "The digital platform for information technology is registered at the Ministry of Commerce with the number 1010370520.":
+      "المنصة الرقمية لتقنية المعلومات مسجلة في وزارة التجارة بالرقم 1010370520",
+    "": "",
+    "": "",
+    "": "",
+    "": "",
   },
 };
 
