@@ -7,8 +7,22 @@ languageSelector.addEventListener("change", (event) => {
 });
 
 document.addEventListener("DOMContentLoaded", () => {
-  setLanguage(localStorage.getItem("lang"));
+  // Check if there's a language stored in localStorage
+  let language = localStorage.getItem("lang");
+
+  // If not, set it to Arabic as default
+  if (!language) {
+    language = "ar";
+    localStorage.setItem("lang", language);
+  }
+
+  // Set the selected option in the dropdown based on the stored language
+  languageSelector.value = language;
+
+  // Apply the language to the page
+  setLanguage(language);
 });
+
 const setLanguage = (language) => {
   const elements = document.querySelectorAll("[data-i18n]");
   elements.forEach((element) => {
