@@ -7190,7 +7190,7 @@ label {
   }
   .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-top {
     padding: 15px 30px 13px 30px;
-    border-bottom: 1px solid #ececec;
+    /* border-bottom: 1px solid #ececec; */
   }
   .mobile-header-wrapper-style
     .mobile-header-wrapper-inner
@@ -7512,3 +7512,11 @@ label {
   }
 }
 /* Whatsapp Icon  */
+
+.contact-map {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
